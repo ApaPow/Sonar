@@ -151,7 +151,6 @@ Legen Sie ein Telefon auf den Wasserzähler"</string>
     <string name="change">"Ändern"</string>
     <string name="watermeter_date_and_time">"Uhrzeit und Datum des Wasserzählers"</string>
     <string name="credits_usage">"Verwendung von Credits"</string>
-    <string name="day_limit">"Tägliches Limit:"</string>
     <string name="total_limit">"Gesamtlimit:"</string>
     <string name="mode">"Modus"</string>
     <string name="time">"Zeit"</string>
@@ -160,7 +159,6 @@ Legen Sie ein Telefon auf den Wasserzähler"</string>
     <string name="counter">"Zähler"</string>
     <string name="soft">"Soft"</string>
     <string name="date">"Datum"</string>
-    <string name="calibration_changes_counter">"Zähler für Kalibrierungsänderung"</string>
     <string name="production_date">"Herstellungsdatum"</string>
     <string name="watermeter_semaphores">"Wasserzähler-Semaphoren"</string>
     <string name="back">"Zurück"</string>
@@ -333,7 +331,6 @@ Zugriffsfehler"</string>
     <string name="password_has_been_changed">"das Passwort wurde geändert"</string>
     <string name="password_hasnt_been_changed_no_communication_with_server">"Passwortänderung gescheitert. Keine Kommunikation zum Server."</string>
     <string name="logging_out">"Ausloggen"</string>
-    <string name="want_to_log_out">"Möchten Sie sich abmelden?"</string>
     <string name="application_expired">"Bewerbungsfrist abgelaufen."</string>
     <string name="no_internet_connection_cannot_continue">"Keine Internetverbindung. Nicht in der Lage, fortzufahren."</string>
     <string name="app_started_in_offline_mode_app_runs_left">"Die Anwendung wurde offline gestartet. Verbleibende Anzahl von Starts"</string>
@@ -428,7 +425,6 @@ Protokoll im Anhang."</string>
 Informationen zum Gerät:
 
 "</string>
-    <string name="keys_database_is_damaged_contact_admin">"Die angegebene Verschlüsselungsschlüsseldatenbank ist beschädigt. Wenden Sie sich an den Administrator."</string>
     <string name="entered_key_is_incorrect">"Ungültiger Schlüssel oder keine Internetverbindung."</string>
     <string name="no_connection_to_server_contact_admin">"Keine Verbindung zum Server. Wenden Sie sich an den Administrator."</string>
     <string name="no_internet_check_connection">"Keine Internetverbindung. Gehen Sie zu den Telefoneinstellungen, um die Netzwerkverfügbarkeit zu überprüfen."</string>
@@ -447,4 +443,111 @@ Informationen zum Gerät:
     <string name="double_tap_charts_info">"Um detaillierte Informationen zum Messwert zu erhalten, klicken Sie doppelt auf die in der Tabelle angegebene Angabe."</string>
     <string name="dont_show_again">"Nicht mehr anzeigen"</string>
     <string name="watermeter_exchange">"Wasserzählerwechsel"</string>
+    <string name="remove_profile">"Profil löschen"</string>
+    <string name="want_to_log_out_and_remove_user_data">"Möchten Sie sich abmelden und die gespeicherten Daten von Ihrem Telefon löschen?"</string>
+    <string name="selected_file_is_not_keys_database">"Die angegebene Datei ist keine Verschlüsselungsschlüsseldatenbank."</string>
+    <string name="fingerprint_usage_when_not_defined">"Wenn kein Fingerabdruck definiert ist, wird das Kennwort zum Anmelden verwendet."</string>
+    <string name="total">"gesamt"</string>
+    <string name="modifying_logging">"Login ändern"</string>
+    <string name="calibrational">"Kalibrierung"</string>
+    <string name="modifying_logging_limit">"Anmeldungsänderungslimit"</string>
+    <string name="watermeter_credits_info">"Die vorhergesagten Werte werden für Wasserzähler in den Versionen TA1-TA3 angegeben. Die aktuellen Werte werden für die TA4-Version angezeigt."</string>
+    <string name="length_in_marks">"Länge% d Zeichen"</string>
+    <string name="device_access_password">"Gerätezugriffskennwort"</string>
+    <string name="wrong_password_length">"Ungültiges Passwort eingegeben"</string>
+    <string name="password_has_been_added">"Passwort wurde hinzugefügt"</string>
+    <string name="password_has_not_been_added">"Passwort konnte nicht hinzugefügt werden"</string>
+    <string name="entering_password">"Passworteingabe"</string>
+    <string name="no_password_required_to_read_data_from_device_enter_password_to_continue">"Es ist kein Kennwort erforderlich, um Informationen vom Gerät herunterzuladen. Geben Sie die Zugangsdaten für das Gerät ein, um den Vorgang fortzusetzen."</string>
+    <string name="daily_log_mode1_description">"- Datum
+- Wasserzähleranzeige
+- Lautstärke zurück
+- maximaler Durchfluss
+- Mindestdurchfluss
+- Ereignisse, die während des Tages aufgezeichnet wurden"</string>
+    <string name="daily_log_mode2_description">"- Datum
+- Wasserzähleranzeige
+- Lautstärke zurück
+- maximaler Durchfluss
+- Ereignisse, die während des Tages aufgezeichnet wurden"</string>
+    <string name="daily_log_mode3_description">"- Datum
+- Wasserzähleranzeige"</string>
+    <string name="daily_log_mode4_description">"- Datum
+- Wasserzähleranzeige
+- maximaler Durchfluss
+- registrierte Ereignisse
+- Ereignisse, die während des Tages aufgezeichnet wurden"</string>
+    <string name="daily_log_mode5_description">"- Datum
+- Wasserzähleranzeige
+- Ereignisse, die während des Tages aufgezeichnet wurden"</string>
+    <string name="daily_log_mode6_description">"- Datum
+- Durchflusshistogramm"</string>
+    <string name="daily_log_mode7_description">"- Datum
+- Histogramm mit komprimiertem Durchfluss"</string>
+    <string name="daily_log_mode8_description">"- Datum
+- Wasserzähleranzeige
+- Lautstärke zurück
+- monatliches Volumen
+- Einschaltzeit
+- registrierte Ereignisse
+- Ereignisse, die während des Tages aufgezeichnet wurden
+- Ereignisse, die im Laufe des Monats aufgezeichnet wurden"</string>
+    <string name="daily_log_mode9_description">"- Datum
+- Wasserzähleranzeige
+- Lautstärke zurück
+- fließen
+- maximaler Durchfluss
+- Ereignisse, die während des Tages aufgezeichnet wurden"</string>
+    <string name="daily_log_mode10_description">"Der gewählte Modus ist im Fehlerfall dem Gerätehersteller vorbehalten und sollte nur nach vorheriger Rücksprache mit dem Hersteller eingestellt werden."</string>
+    <string name="logging_mode">"Anmeldemodus"</string>
+    <string name="change_logging_mode_removes_logs_warning">"ACHTUNG! Bei jeder Änderung des Anmeldemodus werden vorherige Einträge dauerhaft aus dem Speicher gelöscht."</string>
+    <string name="selected_logging_mode">"Anmeldetyp ausgewählt"</string>
+    <string name="consists_of">"Es enthält"</string>
+    <string name="logging_time_interval">"Anmeldeintervall"</string>
+    <string name="selected_interval">"Gewähltes Intervall"</string>
+    <string name="days_short">"Tage"</string>
+    <string name="hours_short">"h."</string>
+    <string name="minutes_short">"Minute"</string>
+    <string name="next_log_saving_time">"Zeit zum Speichern des nächsten Protokolls"</string>
+    <string name="read">"Eingeben"</string>
+    <string name="next_log_save">"Nächster Protokollsatz"</string>
+    <string name="warning">"Warnung"</string>
+    <string name="reading_this_parameter_will_use_one_credit_want_to_continue">"Wenn Sie diesen Parameter lesen, wird ein Tagesdarlehen verwendet. Möchten Sie fortfahren?"</string>
+    <string name="change_logging_mode_will_remove_all_logs_want_to_continue">"Durch Ändern des Anmeldemodus werden vorherige Einträge dauerhaft aus dem Speicher gelöscht. Möchten Sie fortfahren?"</string>
+    <string name="number_of_entries_in_memory">"Anzahl der Einträge im Speicher"</string>
+    <string name="cannot_perform_operation_no_credits_available">"Operation kann nicht ausgeführt werden. Kommunikationsdarlehen sind erschöpft"</string>
+    <string name="dynamic_reading">"Dynamisches Lesen"</string>
+    <string name="error_reverse_volume_m3">"Rücklaufvolumen (m³)"</string>
+    <string name="month_volume_m3">"Wasserzähleranzeige -
+Monatsanfang (m³)"</string>
+    <string name="momentary_flow_lh">"Momentaner Wasserdurchfluss (L / h)"</string>
+    <string name="work_time_h">"Wasserzähler arbeitszeit (h)"</string>
+    <string name="events_detected_during_day">"Erkannte Ereignisse während des Tages"</string>
+    <string name="events_detected_during_month">"Erkannte Ereignisse während des Monats"</string>
+    <string name="flows_range_lh">"Durchflussbereich
+[L / h]"</string>
+    <string name="water_capacity_l">"Wasservolumen
+[L]"</string>
+    <string name="error_reverse_volume">"Rückstromvolumen"</string>
+    <string name="no_chart_available">"Kein Graph"</string>
+    <string name="readings_15">"15 Lesungen"</string>
+    <string name="readings_35">"35 Lesungen"</string>
+    <string name="readings_15_view">"Blick auf 15 Lesungen"</string>
+    <string name="readings_35_view">"Anzeigen von 35 Lesungen"</string>
+    <string name="select_dynamic_logs_info">"Um das Diagramm anzuzeigen, wählen Sie bitte eines der Intervalle aus. Einträge mit folgenden Intervallen sind verfügbar:"</string>
+    <string name="logs_cannot_be_displayed">"Protokolle konnten nicht angezeigt werden"</string>
+    <string name="reference_flow">"Referenzfluss"</string>
+    <string name="average_absolute_time">"Durchschnittliche absolute Zeit"</string>
+    <string name="absolute_time_offset">"Absoluter Zeitversatz"</string>
+    <string name="usage_m3">"Verbrauch (m³)"</string>
+    <string name="no_access">"Kein Zugang"</string>
+    <string name="access_to_logs_only_for_admin">"Zugriff auf Protokolle nur für den Administrator"</string>
+    <string name="api_key_cannot_be_read">"Fehler beim Lesen des API-Schlüssels"</string>
+    <string name="get_from_file">"Aus Datei herunterladen"</string>
+    <string name="gps_is_turned_off">"GPS-Modul ist ausgeschaltet"</string>
+    <string name="update_database">"Basis aktualisieren?"</string>
+    <string name="keys_found">"Schlüssel gefunden"</string>
+    <string name="text_new">"neu"</string>
+    <string name="existing">"vorhanden"</string>
+    <string name="number_of_added_keys">"Anzahl der hinzugefügten Schlüssel"</string>
 </resources>
