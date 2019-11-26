@@ -451,22 +451,22 @@ Informacje o urządzeniu:
 - objętość wsteczna
 - przepływ maksymalny
 - przepływ minimalny
-- alarmy zarejestrowane w ciągu dnia"</string>
+- zdarzenia zarejestrowane w ciągu dnia"</string>
     <string name="daily_log_mode2_description">"- data
 - wskazanie wodomierza
 - objętość wsteczna
 - przepływ maksymalny
-- alarmy zarejestrowane w ciągu dnia"</string>
+- zdarzenia zarejestrowane w ciągu dnia"</string>
     <string name="daily_log_mode3_description">"- data
 - wskazanie wodomierza"</string>
     <string name="daily_log_mode4_description">"- data
 - wskazanie wodomierza
 - przepływ maksymalny
-- zarejestrowane alarmy
-- alarmy zarejestrowane w ciągu dnia"</string>
+- zarejestrowane zdarzenia
+- zdarzenia zarejestrowane w ciągu dnia"</string>
     <string name="daily_log_mode5_description">"- data
 - wskazanie wodomierza
-- alarmy zarejestrowane w ciągu dnia"</string>
+- zdarzenia zarejestrowane w ciągu dnia"</string>
     <string name="daily_log_mode6_description">"- data
 - histogram przepływu"</string>
     <string name="daily_log_mode7_description">"- data
@@ -476,15 +476,15 @@ Informacje o urządzeniu:
 - objętość wsteczna
 - objętość miesięczna
 - czas włączenia
-- zarejestrowane alarmy
-- alarmy zarejestrowane w ciągu dnia
-- alarmy zarejestrowane w ciągu miesiąca"</string>
+- zarejestrowane zdarzenia
+- zdarzenia zarejestrowane w ciągu dnia
+- zdarzenia zarejestrowane w ciągu miesiąca"</string>
     <string name="daily_log_mode9_description">"- data
 - wskazanie wodomierza
 - objętość wsteczna
 - przepływ
 - przepływ maksymalny
-- alarmy zarejestrowane w ciągu dnia"</string>
+- zdarzenia zarejestrowane w ciągu dnia"</string>
     <string name="daily_log_mode10_description">"Wybrany tryb jest zarezerwowany dla producenta urządzenia w przypadku awarii oraz powinien być ustawiony tylko i wyłącznie po wcześniejszym kontakcie z producentem."</string>
     <string name="logging_mode">"Tryb logowania"</string>
     <string name="change_logging_mode_removes_logs_warning">"UWAGA! Każda zmiana trybu logowania będzie powodowała bezpowrotne usunięcie wcześniejszych wpisów z pamięci."</string>
