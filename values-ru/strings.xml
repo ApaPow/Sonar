@@ -441,78 +441,111 @@
     <string name="double_tap_charts_info">"Чтобы получить подробную информацию о показаниях, дважды щелкните мышью на специальном показании, представленном на графике."</string>
     <string name="dont_show_again">"Не показывай снова"</string>
     <string name="watermeter_exchange">"Замена счетчика воды"</string>
-    <string name="remove_profile"></string>
-    <string name="want_to_log_out_and_remove_user_data"></string>
-    <string name="selected_file_is_not_keys_database"></string>
-    <string name="fingerprint_usage_when_not_defined"></string>
-    <string name="total"></string>
-    <string name="modifying_logging"></string>
-    <string name="calibrational"></string>
-    <string name="modifying_logging_limit"></string>
-    <string name="watermeter_credits_info"></string>
-    <string name="length_in_marks"></string>
-    <string name="device_access_password"></string>
-    <string name="wrong_password_length"></string>
-    <string name="password_has_been_added"></string>
-    <string name="password_has_not_been_added"></string>
-    <string name="entering_password"></string>
-    <string name="no_password_required_to_read_data_from_device_enter_password_to_continue"></string>
-    <string name="daily_log_mode1_description"></string>
-    <string name="daily_log_mode2_description"></string>
-    <string name="daily_log_mode3_description"></string>
-    <string name="daily_log_mode4_description"></string>
-    <string name="daily_log_mode5_description"></string>
-    <string name="daily_log_mode6_description"></string>
-    <string name="daily_log_mode7_description"></string>
-    <string name="daily_log_mode8_description"></string>
-    <string name="daily_log_mode9_description"></string>
-    <string name="daily_log_mode10_description"></string>
-    <string name="logging_mode"></string>
-    <string name="change_logging_mode_removes_logs_warning"></string>
-    <string name="selected_logging_mode"></string>
-    <string name="consists_of"></string>
-    <string name="logging_time_interval"></string>
-    <string name="selected_interval"></string>
-    <string name="days_short"></string>
-    <string name="hours_short"></string>
-    <string name="minutes_short"></string>
-    <string name="next_log_saving_time"></string>
-    <string name="read"></string>
-    <string name="next_log_save"></string>
-    <string name="warning"></string>
-    <string name="reading_this_parameter_will_use_one_credit_want_to_continue"></string>
-    <string name="change_logging_mode_will_remove_all_logs_want_to_continue"></string>
-    <string name="number_of_entries_in_memory"></string>
-    <string name="cannot_perform_operation_no_credits_available"></string>
-    <string name="dynamic_reading"></string>
-    <string name="error_reverse_volume_m3"></string>
-    <string name="month_volume_m3"></string>
-    <string name="momentary_flow_lh"></string>
-    <string name="work_time_h"></string>
-    <string name="events_detected_during_day"></string>
-    <string name="events_detected_during_month"></string>
-    <string name="flows_range_lh"></string>
-    <string name="water_capacity_l"></string>
-    <string name="error_reverse_volume"></string>
-    <string name="no_chart_available"></string>
-    <string name="readings_15"></string>
-    <string name="readings_35"></string>
-    <string name="readings_15_view"></string>
-    <string name="readings_35_view"></string>
-    <string name="select_dynamic_logs_info"></string>
-    <string name="logs_cannot_be_displayed"></string>
-    <string name="reference_flow"></string>
-    <string name="average_absolute_time"></string>
-    <string name="absolute_time_offset"></string>
-    <string name="usage_m3"></string>
-    <string name="no_access"></string>
-    <string name="access_to_logs_only_for_admin"></string>
-    <string name="api_key_cannot_be_read"></string>
-    <string name="get_from_file"></string>
-    <string name="gps_is_turned_off"></string>
-    <string name="update_database"></string>
-    <string name="keys_found"></string>
-    <string name="text_new"></string>
-    <string name="existing"></string>
-    <string name="number_of_added_keys"></string>
+    <string name="remove_profile">"Удалить профиль"</string>
+    <string name="want_to_log_out_and_remove_user_data">"Хотите выйти и удалить сохраненные данные с телефона?"</string>
+    <string name="selected_file_is_not_keys_database">"Указанный файл не является базой данных ключей шифрования."</string>
+    <string name="fingerprint_usage_when_not_defined">"Если отпечаток не определен, пароль будет использоваться для входа в систему."</string>
+    <string name="total">"Общее"</string>
+    <string name="modifying_logging">"Модифицирующий логин"</string>
+    <string name="calibrational">"Калибровка"</string>
+    <string name="modifying_logging_limit">"Лимит модифицирующий логин"</string>
+    <string name="watermeter_credits_info">"Прогнозируемые величины представлены для счетчиков воды в версиях TA1-TA3. Фактические величины представлены для версии TA4."</string>
+    <string name="length_in_marks">"длина %d знаков"</string>
+    <string name="device_access_password">"Пароль доступа к устройству"</string>
+    <string name="wrong_password_length">"Неверная длина введенного пароля"</string>
+    <string name="password_has_been_added">"Пароль был добавлен"</string>
+    <string name="password_has_not_been_added">"Не удалось добавить пароль"</string>
+    <string name="entering_password">"Ввод пароля"</string>
+    <string name="no_password_required_to_read_data_from_device_enter_password_to_continue">"Отсутствие пароля необходимого для получения информации с устройства. Чтобы продолжить работу, пожалуйста, введите данные доступа к устройству."</string>
+    <string name="daily_log_mode1_description">"- дата
+- показание счетчика воды
+- обратный объём
+- максимальный поток
+- минимальный поток
+- события записанные в течение дня"</string>
+    <string name="daily_log_mode2_description">"- дата
+- показание счетчика воды
+- обратный объём
+- максимальный поток
+- события записанные в течение дня"</string>
+    <string name="daily_log_mode3_description">"- дата
+- показание счетчика воды"</string>
+    <string name="daily_log_mode4_description">"- дата
+- показание счетчика воды
+- максимальный поток
+- зарегистрированные события
+- события записанные в течение дня"</string>
+    <string name="daily_log_mode5_description">"- дата
+- показание счетчика воды
+- события записанные в течение дня"</string>
+    <string name="daily_log_mode6_description">"- дата
+- гистограмма потока"</string>
+    <string name="daily_log_mode7_description">"- дата
+- сжатая гистограмма потока"</string>
+    <string name="daily_log_mode8_description">"- дата
+- показание счетчика воды
+- обратный объём
+- месячный объём
+- время включения
+- зарегистрированные события
+- события записанные в течение дня
+- события записанные в течение месяца"</string>
+    <string name="daily_log_mode9_description">"- дата
+- показание счетчика воды
+- обратный объём
+- поток
+- максимальный поток
+- события записанные в течение дня"</string>
+    <string name="daily_log_mode10_description">"Выбранный режим зарезервирован для производителя устройства в случае неисправности и должен устанавливаться только после предварительного контакта с производителем."</string>
+    <string name="logging_mode">"Режим входа"</string>
+    <string name="change_logging_mode_removes_logs_warning">"ВНИМАНИЕ! Любое изменение режима входа удаляет навсегда предыдущие записи из памяти."</string>
+    <string name="selected_logging_mode">"Выбранный тип входа"</string>
+    <string name="consists_of">"Состоит из"</string>
+    <string name="logging_time_interval">"Интервал входа"</string>
+    <string name="selected_interval">"Выбранный интервал"</string>
+    <string name="days_short">"дней"</string>
+    <string name="hours_short">"ч."</string>
+    <string name="minutes_short">"мин."</string>
+    <string name="next_log_saving_time">"Время сохранения следующего журнала"</string>
+    <string name="read">"Считывание"</string>
+    <string name="next_log_save">"Следующая запись журнала"</string>
+    <string name="warning">"Предупреждение"</string>
+    <string name="reading_this_parameter_will_use_one_credit_want_to_continue">"Для чтения этого параметра надо использовать ежедневный кредит. Хотите продолжить?"</string>
+    <string name="change_logging_mode_will_remove_all_logs_want_to_continue">"Изменение режима входа навсегда удалит предыдущие записи из памяти. Хотите продолжить?"</string>
+    <string name="number_of_entries_in_memory">"Количество записей в памяти"</string>
+    <string name="cannot_perform_operation_no_credits_available">"Невозможно выполнить операцию. Кредиты на связь исчерпаны"</string>
+    <string name="dynamic_reading">"Динамическое чтение"</string>
+    <string name="error_reverse_volume_m3">"Обратный объем (м³)"</string>
+    <string name="month_volume_m3">"Показание счетчика воды -
+начало месяца (м³)"</string>
+    <string name="momentary_flow_lh">"Мгновенный поток воды (л/ч)"</string>
+    <string name="work_time_h">"Время работы счетчика воды (ч)"</string>
+    <string name="events_detected_during_day">"Обнаруженные события в за день"</string>
+    <string name="events_detected_during_month">"Обнаруженные события за месяц"</string>
+    <string name="flows_range_lh">"Диапазон потока
+[Л/ч]"</string>
+    <string name="water_capacity_l">"Объем воды
+[L]"</string>
+    <string name="error_reverse_volume">"Обратный объем"</string>
+    <string name="no_chart_available">"Нет диаграммы"</string>
+    <string name="readings_15">"15 показаний"</string>
+    <string name="readings_35">"35 показаний"</string>
+    <string name="readings_15_view">"Вид 15 показаний"</string>
+    <string name="readings_35_view">"Вид 35 показаний"</string>
+    <string name="select_dynamic_logs_info">"Чтобы показать диаграмму, выберите один из интервалов ниже. Доступны записи со следующими интервалами:"</string>
+    <string name="logs_cannot_be_displayed">"Не удалось показать логи"</string>
+    <string name="reference_flow">"Контрольный поток"</string>
+    <string name="average_absolute_time">"Среднее абсолютное время"</string>
+    <string name="absolute_time_offset">"Абсолютное смещение времени"</string>
+    <string name="usage_m3">"Расход (м³)"</string>
+    <string name="no_access">"Нет доступа"</string>
+    <string name="access_to_logs_only_for_admin">"Доступ к логам только для администратора"</string>
+    <string name="api_key_cannot_be_read">"Не удалось прочитать ключ API"</string>
+    <string name="get_from_file">"Скачать из файла"</string>
+    <string name="gps_is_turned_off">"Модуль GPS выключен"</string>
+    <string name="update_database">"Обновить базу?"</string>
+    <string name="keys_found">"Найдено ключей"</string>
+    <string name="text_new">"новые"</string>
+    <string name="existing">"существующие"</string>
+    <string name="number_of_added_keys">"Количество добавленных ключей"</string>
 </resources>
