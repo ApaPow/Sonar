@@ -430,78 +430,111 @@ Informace o zařízení:
     <string name="double_tap_charts_info">"Chcete-li získat podrobné informace o čtení, dvakrát klikněte na konkrétní indikaci uvedenou v grafu."</string>
     <string name="dont_show_again">"Nezobrazovat znovu"</string>
     <string name="watermeter_exchange">"Výměna vodoměru"</string>
-    <string name="remove_profile"></string>
-    <string name="want_to_log_out_and_remove_user_data"></string>
-    <string name="selected_file_is_not_keys_database"></string>
-    <string name="fingerprint_usage_when_not_defined"></string>
-    <string name="total"></string>
-    <string name="modifying_logging"></string>
-    <string name="calibrational"></string>
-    <string name="modifying_logging_limit"></string>
-    <string name="watermeter_credits_info"></string>
-    <string name="length_in_marks"></string>
-    <string name="device_access_password"></string>
-    <string name="wrong_password_length"></string>
-    <string name="password_has_been_added"></string>
-    <string name="password_has_not_been_added"></string>
-    <string name="entering_password"></string>
-    <string name="no_password_required_to_read_data_from_device_enter_password_to_continue"></string>
-    <string name="daily_log_mode1_description"></string>
-    <string name="daily_log_mode2_description"></string>
-    <string name="daily_log_mode3_description"></string>
-    <string name="daily_log_mode4_description"></string>
-    <string name="daily_log_mode5_description"></string>
-    <string name="daily_log_mode6_description"></string>
-    <string name="daily_log_mode7_description"></string>
-    <string name="daily_log_mode8_description"></string>
-    <string name="daily_log_mode9_description"></string>
-    <string name="daily_log_mode10_description"></string>
-    <string name="logging_mode"></string>
-    <string name="change_logging_mode_removes_logs_warning"></string>
-    <string name="selected_logging_mode"></string>
-    <string name="consists_of"></string>
-    <string name="logging_time_interval"></string>
-    <string name="selected_interval"></string>
-    <string name="days_short"></string>
-    <string name="hours_short"></string>
-    <string name="minutes_short"></string>
-    <string name="next_log_saving_time"></string>
-    <string name="read"></string>
-    <string name="next_log_save"></string>
-    <string name="warning"></string>
-    <string name="reading_this_parameter_will_use_one_credit_want_to_continue"></string>
-    <string name="change_logging_mode_will_remove_all_logs_want_to_continue"></string>
-    <string name="number_of_entries_in_memory"></string>
-    <string name="cannot_perform_operation_no_credits_available"></string>
-    <string name="dynamic_reading"></string>
-    <string name="error_reverse_volume_m3"></string>
-    <string name="month_volume_m3"></string>
-    <string name="momentary_flow_lh"></string>
-    <string name="work_time_h"></string>
-    <string name="events_detected_during_day"></string>
-    <string name="events_detected_during_month"></string>
-    <string name="flows_range_lh"></string>
-    <string name="water_capacity_l"></string>
-    <string name="error_reverse_volume"></string>
-    <string name="no_chart_available"></string>
-    <string name="readings_15"></string>
-    <string name="readings_35"></string>
-    <string name="readings_15_view"></string>
-    <string name="readings_35_view"></string>
-    <string name="select_dynamic_logs_info"></string>
-    <string name="logs_cannot_be_displayed"></string>
-    <string name="reference_flow"></string>
-    <string name="average_absolute_time"></string>
-    <string name="absolute_time_offset"></string>
-    <string name="usage_m3"></string>
-    <string name="no_access"></string>
-    <string name="access_to_logs_only_for_admin"></string>
-    <string name="api_key_cannot_be_read"></string>
-    <string name="get_from_file"></string>
-    <string name="gps_is_turned_off"></string>
-    <string name="update_database"></string>
-    <string name="keys_found"></string>
-    <string name="text_new"></string>
-    <string name="existing"></string>
-    <string name="number_of_added_keys"></string>
+    <string name="remove_profile">"Smazat profil"</string>
+    <string name="want_to_log_out_and_remove_user_data">"Chcete se odhlásit a smazat uložená data z telefonu?"</string>
+    <string name="selected_file_is_not_keys_database">"Zadaný soubor není databází šifrovacích klíčů."</string>
+    <string name="fingerprint_usage_when_not_defined">"Pokud není definován žádný otisk prstu, použije se pro přihlášení heslo."</string>
+    <string name="total">"totální"</string>
+    <string name="modifying_logging">"Změna přihlášení"</string>
+    <string name="calibrational">"kalibrace"</string>
+    <string name="modifying_logging_limit">"Limit modifikace přihlášení"</string>
+    <string name="watermeter_credits_info">"Předpovídané hodnoty jsou uvedeny pro vodoměry ve verzi TA1-TA3. Aktuální hodnoty jsou uvedeny pro verzi TA4."</string>
+    <string name="length_in_marks">"délka% d znaků"</string>
+    <string name="device_access_password">"Heslo pro přístup k zařízení"</string>
+    <string name="wrong_password_length">"Zadáno neplatné heslo"</string>
+    <string name="password_has_been_added">"Heslo bylo přidáno"</string>
+    <string name="password_has_not_been_added">"Nepodařilo se přidat heslo"</string>
+    <string name="entering_password">"Zadání hesla"</string>
+    <string name="no_password_required_to_read_data_from_device_enter_password_to_continue">"Pro stahování informací ze zařízení není potřeba žádné heslo. Chcete-li v této operaci pokračovat, zadejte přístupová data zařízení."</string>
+    <string name="daily_log_mode1_description">"- datum
+- indikace vodoměru
+- zadní objem
+- maximální průtok
+- minimální průtok
+- poplachy zaznamenané během dne"</string>
+    <string name="daily_log_mode2_description">"- datum
+- indikace vodoměru
+- zadní objem
+- maximální průtok
+- poplachy zaznamenané během dne"</string>
+    <string name="daily_log_mode3_description">"- datum
+- indikace vodoměru"</string>
+    <string name="daily_log_mode4_description">"- datum
+- indikace vodoměru
+- maximální průtok
+- registrované poplachy
+- poplachy zaznamenané během dne"</string>
+    <string name="daily_log_mode5_description">"- datum
+- indikace vodoměru
+- poplachy zaznamenané během dne"</string>
+    <string name="daily_log_mode6_description">"- datum
+- histogram toku"</string>
+    <string name="daily_log_mode7_description">"- datum
+- histogram komprimovaného toku"</string>
+    <string name="daily_log_mode8_description">"- datum
+- indikace vodoměru
+- zadní objem
+- měsíční objem
+- čas zapnutí
+- registrované poplachy
+- poplachy zaznamenané během dne
+- poplachy zaznamenané během měsíce"</string>
+    <string name="daily_log_mode9_description">"- datum
+- indikace vodoměru
+- zadní objem
+- tok
+- maximální průtok
+- poplachy zaznamenané během dne"</string>
+    <string name="daily_log_mode10_description">"Zvolený režim je vyhrazen pro výrobce zařízení v případě poruchy a měl by být nastaven až po předchozím kontaktu s výrobcem."</string>
+    <string name="logging_mode">"Režim přihlášení"</string>
+    <string name="change_logging_mode_removes_logs_warning">"UPOZORNĚNÍ! Každá změna v režimu přihlášení trvale odstraní předchozí položky z paměti."</string>
+    <string name="selected_logging_mode">"Je vybrán typ přihlášení"</string>
+    <string name="consists_of">"Obsahuje"</string>
+    <string name="logging_time_interval">"Interval přihlášení"</string>
+    <string name="selected_interval">"Vybraný interval"</string>
+    <string name="days_short">"dnů"</string>
+    <string name="hours_short">"h."</string>
+    <string name="minutes_short">"min."</string>
+    <string name="next_log_saving_time">"Je čas uložit další protokol"</string>
+    <string name="read">"Odečet"</string>
+    <string name="next_log_save">"Další záznam protokolu"</string>
+    <string name="warning">"Varování"</string>
+    <string name="reading_this_parameter_will_use_one_credit_want_to_continue">"Čtení tohoto parametru použije jednodenní půjčku. Chcete pokračovat"</string>
+    <string name="change_logging_mode_will_remove_all_logs_want_to_continue">"Změna režimu přihlášení trvale odstraní předchozí položky z paměti. Chcete pokračovat"</string>
+    <string name="number_of_entries_in_memory">"Počet záznamů v paměti"</string>
+    <string name="cannot_perform_operation_no_credits_available">"Nelze provést operaci. Komunikační půjčky byly vyčerpány"</string>
+    <string name="dynamic_reading">"Dynamické čtení"</string>
+    <string name="error_reverse_volume_m3">"Obrácený objem (m³)"</string>
+    <string name="month_volume_m3">"Indikace vodoměru -
+začátek měsíce (m³)"</string>
+    <string name="momentary_flow_lh">"Okamžitý průtok vody (L / h)"</string>
+    <string name="work_time_h">"Pracovní doba vodoměru (h)"</string>
+    <string name="events_detected_during_day">"Zjištěné události během dne"</string>
+    <string name="events_detected_during_month">"Zjištěné události během měsíce"</string>
+    <string name="flows_range_lh">"Rozsah průtoku
+[L / h]"</string>
+    <string name="water_capacity_l">"Objem vody
+[L]"</string>
+    <string name="error_reverse_volume">"Zpětný objem"</string>
+    <string name="no_chart_available">"Žádný graf"</string>
+    <string name="readings_15">"15 odečtů"</string>
+    <string name="readings_35">"35 odečtů"</string>
+    <string name="readings_15_view">"Pohled na 15 čtení"</string>
+    <string name="readings_35_view">"Pohled na 35 čtení"</string>
+    <string name="select_dynamic_logs_info">"Chcete-li zobrazit graf, vyberte jeden z níže uvedených intervalů. K dispozici jsou záznamy s následujícími intervaly:"</string>
+    <string name="logs_cannot_be_displayed">"Protokoly nelze zobrazit"</string>
+    <string name="reference_flow">"Referenční tok"</string>
+    <string name="average_absolute_time">"Průměrný absolutní čas"</string>
+    <string name="absolute_time_offset">"Absolutní časový posun"</string>
+    <string name="usage_m3">"Spotřeba (m³)"</string>
+    <string name="no_access">"Žádný přístup"</string>
+    <string name="access_to_logs_only_for_admin">"Přístup k protokolům pouze pro správce"</string>
+    <string name="api_key_cannot_be_read">"Čtení klíče API se nezdařilo"</string>
+    <string name="get_from_file">"Stáhnout ze souboru"</string>
+    <string name="gps_is_turned_off">"Modul GPS je vypnutý"</string>
+    <string name="update_database">"Aktualizovat základnu?"</string>
+    <string name="keys_found">"Klíče nalezeny"</string>
+    <string name="text_new">"nový"</string>
+    <string name="existing">"existující"</string>
+    <string name="number_of_added_keys">"Počet přidaných klíčů"</string>
 </resources>
