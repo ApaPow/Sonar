@@ -639,78 +639,111 @@ Information about device:
     <string name="double_tap_charts_info">"In order to obtain detailed information about the reading, double-click on the specific indication presented on the chart."</string>
     <string name="dont_show_again">"Do not show again"</string>
     <string name="watermeter_exchange">"Water meter replacement"</string>
-    <string name="remove_profile"></string>
-    <string name="want_to_log_out_and_remove_user_data"></string>
-    <string name="selected_file_is_not_keys_database"></string>
-    <string name="fingerprint_usage_when_not_defined"></string>
-    <string name="total"></string>
-    <string name="modifying_logging"></string>
-    <string name="calibrational"></string>
-    <string name="modifying_logging_limit"></string>
-    <string name="watermeter_credits_info"></string>
-    <string name="length_in_marks"></string>
-    <string name="device_access_password"></string>
-    <string name="wrong_password_length"></string>
-    <string name="password_has_been_added"></string>
-    <string name="password_has_not_been_added"></string>
-    <string name="entering_password"></string>
-    <string name="no_password_required_to_read_data_from_device_enter_password_to_continue"></string>
-    <string name="daily_log_mode1_description"></string>
-    <string name="daily_log_mode2_description"></string>
-    <string name="daily_log_mode3_description"></string>
-    <string name="daily_log_mode4_description"></string>
-    <string name="daily_log_mode5_description"></string>
-    <string name="daily_log_mode6_description"></string>
-    <string name="daily_log_mode7_description"></string>
-    <string name="daily_log_mode8_description"></string>
-    <string name="daily_log_mode9_description"></string>
-    <string name="daily_log_mode10_description"></string>
-    <string name="logging_mode"></string>
-    <string name="change_logging_mode_removes_logs_warning"></string>
-    <string name="selected_logging_mode"></string>
-    <string name="consists_of"></string>
-    <string name="logging_time_interval"></string>
-    <string name="selected_interval"></string>
-    <string name="days_short"></string>
-    <string name="hours_short"></string>
-    <string name="minutes_short"></string>
-    <string name="next_log_saving_time"></string>
-    <string name="read"></string>
-    <string name="next_log_save"></string>
-    <string name="warning"></string>
-    <string name="reading_this_parameter_will_use_one_credit_want_to_continue"></string>
-    <string name="change_logging_mode_will_remove_all_logs_want_to_continue"></string>
-    <string name="number_of_entries_in_memory"></string>
-    <string name="cannot_perform_operation_no_credits_available"></string>
-    <string name="dynamic_reading"></string>
-    <string name="error_reverse_volume_m3"></string>
-    <string name="month_volume_m3"></string>
-    <string name="momentary_flow_lh"></string>
-    <string name="work_time_h"></string>
-    <string name="events_detected_during_day"></string>
-    <string name="events_detected_during_month"></string>
-    <string name="flows_range_lh"></string>
-    <string name="water_capacity_l"></string>
-    <string name="error_reverse_volume"></string>
-    <string name="no_chart_available"></string>
-    <string name="readings_15"></string>
-    <string name="readings_35"></string>
-    <string name="readings_15_view"></string>
-    <string name="readings_35_view"></string>
-    <string name="select_dynamic_logs_info"></string>
-    <string name="logs_cannot_be_displayed"></string>
-    <string name="reference_flow"></string>
-    <string name="average_absolute_time"></string>
-    <string name="absolute_time_offset"></string>
-    <string name="usage_m3"></string>
-    <string name="no_access"></string>
-    <string name="access_to_logs_only_for_admin"></string>
-    <string name="api_key_cannot_be_read"></string>
-    <string name="get_from_file"></string>
-    <string name="gps_is_turned_off"></string>
-    <string name="update_database"></string>
-    <string name="keys_found"></string>
-    <string name="text_new"></string>
-    <string name="existing"></string>
-    <string name="number_of_added_keys"></string>
+    <string name="remove_profile">"Delete profile"</string>
+    <string name="want_to_log_out_and_remove_user_data">"Do you want to log out and delete stored data from your phone?"</string>
+    <string name="selected_file_is_not_keys_database">"This file is not an encryption key database."</string>
+    <string name="fingerprint_usage_when_not_defined">"If no fingerprint is defined, the password will be used to log in."</string>
+    <string name="total">"Total"</string>
+    <string name="modifying_logging">"Modifying login"</string>
+    <string name="calibrational">"Calibration"</string>
+    <string name="modifying_logging_limit">"Login modification limit"</string>
+    <string name="watermeter_credits_info">"Predicted values are presented for water meters in versions TA1-TA3. Actual values are presented for TA4 version."</string>
+    <string name="length_in_marks">"length %d characters"</string>
+    <string name="device_access_password">"Device access password"</string>
+    <string name="wrong_password_length">"Entered password has invalid length"</string>
+    <string name="password_has_been_added">"Password has been added"</string>
+    <string name="password_has_not_been_added">"Failed to add password"</string>
+    <string name="entering_password">"Password entry"</string>
+    <string name="no_password_required_to_read_data_from_device_enter_password_to_continue">"There is no password needed to download information from device. To continue the operation, please enter the device access data."</string>
+    <string name="daily_log_mode1_description">"- date
+- water meter indication
+- reverse volume
+- maximum flow
+- minimum flow
+- events recorded during the day"</string>
+    <string name="daily_log_mode2_description">"- date
+- water meter indication
+- reverse volume
+- maximum flow
+- events recorded during the day"</string>
+    <string name="daily_log_mode3_description">"- date
+- water meter indication"</string>
+    <string name="daily_log_mode4_description">"- date
+- water meter indication
+- maximum flow
+- registered events
+- events recorded during the day"</string>
+    <string name="daily_log_mode5_description">"- date
+- water meter indication
+- events recorded during the day"</string>
+    <string name="daily_log_mode6_description">"- date
+- flow histogram"</string>
+    <string name="daily_log_mode7_description">"- date
+- compressed flow histogram"</string>
+    <string name="daily_log_mode8_description">"- date
+- water meter indication
+- reverse volume
+- monthly volume
+- switch-on time
+- registered events
+- events recorded during the day
+- events recorded during the month"</string>
+    <string name="daily_log_mode9_description">"- date
+- water meter indication
+- reverse volume
+- flow
+- maximum flow
+- events recorded during the day"</string>
+    <string name="daily_log_mode10_description">"Selected mode is reserved for the device manufacturer in the event of a failure and should be set only after prior contact with the manufacturer."</string>
+    <string name="logging_mode">"Login mode"</string>
+    <string name="change_logging_mode_removes_logs_warning">"WARNING! Any change in the login mode will permanently delete previous entries from memory."</string>
+    <string name="selected_logging_mode">"Selected login type "</string>
+    <string name="consists_of">"It contains"</string>
+    <string name="logging_time_interval">"Login Interval"</string>
+    <string name="selected_interval">"Selected interval"</string>
+    <string name="days_short">"days"</string>
+    <string name="hours_short">"hrs."</string>
+    <string name="minutes_short">"min."</string>
+    <string name="next_log_saving_time">"Next log saving time"</string>
+    <string name="read">"Read"</string>
+    <string name="next_log_save">"Next log record"</string>
+    <string name="warning">"Warning"</string>
+    <string name="reading_this_parameter_will_use_one_credit_want_to_continue">"Reading this parameter will use one daily credit. Do you want to proceed?"</string>
+    <string name="change_logging_mode_will_remove_all_logs_want_to_continue">"Changing the login mode will permanently delete previous entries from memory. Do you want to continue?"</string>
+    <string name="number_of_entries_in_memory">"Number of entries in memory"</string>
+    <string name="cannot_perform_operation_no_credits_available">"Unable to perform operation. Communication credits exhausted"</string>
+    <string name="dynamic_reading">"Dynamic reading"</string>
+    <string name="error_reverse_volume_m3">"Reverse volume (m³)"</string>
+    <string name="month_volume_m3">"Water meter indication -
+beginning of the month (m³)"</string>
+    <string name="momentary_flow_lh">"Instantaneous water flow (L/h)"</string>
+    <string name="work_time_h">"Water meter working time (h)"</string>
+    <string name="events_detected_during_day">"Detected events during the day"</string>
+    <string name="events_detected_during_month">"Detected events during the month"</string>
+    <string name="flows_range_lh">"Flow range
+[L/h]"</string>
+    <string name="water_capacity_l">"Water volume
+[L]"</string>
+    <string name="error_reverse_volume">"Reverse volume"</string>
+    <string name="no_chart_available">"No graph"</string>
+    <string name="readings_15">"15 readings"</string>
+    <string name="readings_35">"35 readings"</string>
+    <string name="readings_15_view">"15 readings view"</string>
+    <string name="readings_35_view">"35 readings view"</string>
+    <string name="select_dynamic_logs_info">"To display the chart, please select one of the intervals below. Entries with the following intervals are available:"</string>
+    <string name="logs_cannot_be_displayed">"Could not display logs"</string>
+    <string name="reference_flow">"Reference flow"</string>
+    <string name="average_absolute_time">"Average absolute time"</string>
+    <string name="absolute_time_offset">"Absolute time offset"</string>
+    <string name="usage_m3">"Consumption (m³)"</string>
+    <string name="no_access">"No access"</string>
+    <string name="access_to_logs_only_for_admin">"Access to logs only for the administrator"</string>
+    <string name="api_key_cannot_be_read">"Failed to read API key"</string>
+    <string name="get_from_file">"Upload from file"</string>
+    <string name="gps_is_turned_off">"GPS module is turned off"</string>
+    <string name="update_database">"Update the base?"</string>
+    <string name="keys_found">"Keys found"</string>
+    <string name="text_new">"new"</string>
+    <string name="existing">"existing"</string>
+    <string name="number_of_added_keys">"Number of keys added"</string>
 </resources>
