@@ -21,14 +21,14 @@
     <string name="mounted_watermeter_number"></string>
     <string name="communication_module_number">"Numero del modulo di comunicazione"</string>
     <string name="mounted_watermeter_reading">"Indicazione del contatore dell'acqua (m³)"</string>
-    <string name="q3_flow">"Portata Q3 (m³)"</string>
+    <string name="q3_flow">"Portata Q3 (m³/h)"</string>
     <string name="diameter">"diametro"</string>
     <string name="watermeter_length">"Lunghezza contatore dell'acqua (mm)"</string>
     <string name="dismounted_watermeter_number">"Il numero del contatore dell'acqua"</string>
     <string name="dismounted_watermeter_reading">"Indicazione del contatore dell'acqua (m³)"</string>
     <string name="operation_type">"Tipo di operazione"</string>
     <string name="geographic_positions">"Coordinate geografiche"</string>
-    <string name="installed_device">"Il dispositivo installato"</string>
+    <string name="installed_device"></string>
     <string name="watermeter_type">"Tipo di contatore dell'acqua"</string>
     <string name="main_watermeter">"contatore principale"</string>
     <string name="subwatermeter">"contatore secondario"</string>
@@ -89,7 +89,7 @@
     <string name="daily"></string>
     <string name="monthly">"Mensile"</string>
     <string name="events">"Eventi"</string>
-    <string name="client_data">"Dati del cliente"</string>
+    <string name="client_data"></string>
     <string name="get_daily_data">"Scarica i dati giornalieri"</string>
     <string name="get_monthly_data">"Scarica i dati mensili"</string>
     <string name="get_events_log">"Scarica il registro eventi"</string>
@@ -117,7 +117,7 @@ metti il telefono sul contatore dell'acqua"</string>
     <string name="settings">"Impostazioni"</string>
     <string name="calibration">"taratura"</string>
     <string name="volume_reset">"Display ripristinato"</string>
-    <string name="installation">"Installazione"</string>
+    <string name="installation"></string>
     <string name="exchange">"Scambio"</string>
     <string name="baan_number">"BAAN"</string>
     <string name="implementation">"impianto"</string>
@@ -368,7 +368,7 @@ al dispositivo"</string>
     <string name="want_to_remove_this_picture">"Vuoi eliminare questa foto?"</string>
     <string name="setting_new_time_influences_logs_continue">"L'impostazione di una nuova data e ora influisce sulla corretta registrazione dei registri. Vuoi continuare"</string>
     <string name="mode_restart">"ricomincia"</string>
-    <string name="client_address">"Indirizzo cliente"</string>
+    <string name="client_address">"Indirizzo"</string>
     <string name="exchange_form">"Modulo di scambio"</string>
     <string name="installation_form">"Modulo di assemblaggio"</string>
     <string name="of_ultrimis_watermeter">"Contatore per acqua Ultrimis"</string>
@@ -438,12 +438,12 @@ Informazioni sul dispositivo:
     <string name="modifying_logging_limit">"Limite di modifica dell'accesso"</string>
     <string name="watermeter_credits_info">"I valori previsti sono presentati per i contatori d'acqua nelle versioni TA1-TA3. I valori effettivi sono presentati per la versione TA4."</string>
     <string name="length_in_marks">"lunghezza% d caratteri"</string>
-    <string name="device_access_password">"Password di accesso al dispositivo"</string>
+    <string name="device_access_password"></string>
     <string name="wrong_password_length">"Password inserita non valida"</string>
     <string name="password_has_been_added">"La password è stata aggiunta"</string>
     <string name="password_has_not_been_added">"Impossibile aggiungere la password"</string>
     <string name="entering_password">"Inserimento password"</string>
-    <string name="no_password_required_to_read_data_from_device_enter_password_to_continue">"Non è necessaria alcuna password per scaricare informazioni dal dispositivo. Per continuare l'operazione, inserire i dati di accesso al dispositivo."</string>
+    <string name="no_password_required_to_read_data_from_device_enter_password_to_continue"></string>
     <string name="daily_log_mode1_description">"- data
 - indicazione del contatore dell'acqua
 - volume posteriore
