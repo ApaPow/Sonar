@@ -21,14 +21,14 @@
     <string name="mounted_watermeter_number">"S/N wodomierza"</string>
     <string name="communication_module_number">"Numer modułu komunikacji"</string>
     <string name="mounted_watermeter_reading">"Wskazanie wodomierza (m³)"</string>
-    <string name="q3_flow">"Przepływ Q3 (m³)"</string>
+    <string name="q3_flow">"Przepływ Q3 (m³/h)"</string>
     <string name="diameter">"Średnica"</string>
     <string name="watermeter_length">"Długość wodomierza (mm)"</string>
     <string name="dismounted_watermeter_number">"Numer wodomierza"</string>
     <string name="dismounted_watermeter_reading">"Wskazanie wodomierza (m³)"</string>
     <string name="operation_type">"Typ operacji"</string>
     <string name="geographic_positions">"Współrzędne geograficzne"</string>
-    <string name="installed_device">"Instalowane urządzenie"</string>
+    <string name="installed_device">"Typ urządzenia"</string>
     <string name="watermeter_type">"Rodzaj wodomierza"</string>
     <string name="main_watermeter">"Wodomierz główny"</string>
     <string name="subwatermeter">"Podlicznik"</string>
@@ -89,7 +89,7 @@
     <string name="daily">"Rejestry"</string>
     <string name="monthly">"Miesięczne"</string>
     <string name="events">"Zdarzenia"</string>
-    <string name="client_data">"Dane klienta"</string>
+    <string name="client_data">"Lokalizacja punktu"</string>
     <string name="get_daily_data">"Pobierz dane dzienne"</string>
     <string name="get_monthly_data">"Pobierz dane miesięczne"</string>
     <string name="get_events_log">"Pobierz log zdarzeń"</string>
@@ -117,7 +117,7 @@ przyłóż telefon do wodomierza"</string>
     <string name="settings">"Ustawienia"</string>
     <string name="calibration">"Kalibracja"</string>
     <string name="volume_reset">"Reset wskazań"</string>
-    <string name="installation">"Montaż"</string>
+    <string name="installation">"Serwis"</string>
     <string name="exchange">"Wymiana"</string>
     <string name="baan_number">"BAAN"</string>
     <string name="implementation">"Wykonanie"</string>
@@ -370,7 +370,7 @@ urządzenia"</string>
     <string name="want_to_remove_this_picture">"Czy chcesz usunąć to zdjęcie?"</string>
     <string name="setting_new_time_influences_logs_continue">"Ustawienie nowej daty i godziny ma wpływ na poprawny zapis logów. Czy chcesz kontynuować?"</string>
     <string name="mode_restart">"Restart"</string>
-    <string name="client_address">"Adres klienta"</string>
+    <string name="client_address">"Adres"</string>
     <string name="exchange_form">"Formularz wymiany"</string>
     <string name="installation_form">"Formularz montażu"</string>
     <string name="of_ultrimis_watermeter">"wodomierza Ultrimis"</string>
@@ -440,12 +440,12 @@ Informacje o urządzeniu:
     <string name="modifying_logging_limit">"Limit modyfikujący logowanie"</string>
     <string name="watermeter_credits_info">"Dla wodomierzy w wersjach TA1-TA3 prezentowane są wartości przewidywane. W przypadku wersji TA4 prezentowane są wartości rzeczywiste."</string>
     <string name="length_in_marks">"długość %d znaków"</string>
-    <string name="device_access_password">"Hasło dostępu do urządzenia"</string>
+    <string name="device_access_password">"Podaj hasło NFC2"</string>
     <string name="wrong_password_length">"Niepoprawna długość wprowadzonego hasła"</string>
     <string name="password_has_been_added">"Hasło zostało dodane"</string>
     <string name="password_has_not_been_added">"Nie udało się dodać hasła"</string>
     <string name="entering_password">"Wprowadzanie hasła"</string>
-    <string name="no_password_required_to_read_data_from_device_enter_password_to_continue">"Brak hasła niezbęnego do pobrania informacji z urządzenia. W celu kontynuowania operacji proszę wprowadzić dane dostępu do urządzenia."</string>
+    <string name="no_password_required_to_read_data_from_device_enter_password_to_continue">"Brak możliwości pobrania hasła NFC2 z serwera."</string>
     <string name="daily_log_mode1_description">"- data
 - wskazanie wodomierza
 - objętość wsteczna
