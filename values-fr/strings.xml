@@ -21,19 +21,19 @@
     <string name="client_name">"Nom du client"</string>
     <string name="city">"ville"</string>
     <string name="postcode">"Code postal"</string>
-    <string name="mounted_watermeter_number">"Numéro de compteur d'eau installe"</string>
+    <string name="mounted_watermeter_number"></string>
     <string name="communication_module_number">"Numéro du module de communication"</string>
-    <string name="mounted_watermeter_reading">"Indication du compteur d'eau installe (m³)"</string>
+    <string name="mounted_watermeter_reading">"Indication du compteur d'eau (m³)"</string>
     <string name="q3_flow">"Flux Q3 (m³)"</string>
     <string name="diameter">"diamètre"</string>
     <string name="watermeter_length">"Longueur du compteur d'eau (mm)"</string>
 
     <!-- trzeba dodać znaki specjalne -->
     <!-- Fuzzy -->
-    <string name="dismounted_watermeter_number">"Le numéro du compteur d'eau demonte"</string>
+    <string name="dismounted_watermeter_number">"Le numéro du compteur d'eau"</string>
 
     <!-- Fuzzy -->
-    <string name="dismounted_watermeter_reading">"Indication du compteur d'eau demonte (m³)"</string>
+    <string name="dismounted_watermeter_reading">"Indication du compteur d'eau (m³)"</string>
     <string name="operation_type">"Type d'opération"</string>
     <string name="geographic_positions">"Coordonnées géographiques"</string>
     <string name="installed_device">"L'appareil en cours d'installation"</string>
@@ -49,7 +49,7 @@
     <string name="entered_text_is_empty">"Le texte saisi est vide"</string>
     <string name="nfc">"NFC"</string>
     <string name="charts">"graphiques"</string>
-    <string name="nfc_communication_in_progress">"La communication NFC est en cours"</string>
+    <string name="nfc_communication_in_progress">"La communicationest en cours"</string>
     <string name="progress">"progrès"</string>
     <string name="errors_during_sign_recording_occurred">"Il y avait des problèmes pour récupérer la signature"</string>
     <string name="camera_access_restricted">"Pas d'accès à la caméra"</string>
@@ -68,7 +68,7 @@
     <string name="form_saved">"Le formulaire a été enregistré"</string>
     <string name="form_save_error">"Érreur de l'enregistrement du formulaire"</string>
     <string name="cannot_read_data_from_watermeter">"L'information de compteur d'eau n'a pas pu être récupérée"</string>
-    <string name="installed_seals_number">"Nombre de joints installés"</string>
+    <string name="installed_seals_number"></string>
     <string name="pictures">"Photos"</string>
     <string name="error_leak">"erreur_fuite"</string>
     <string name="error_reverse_flow">"erreur_ Flux inversé"</string>
@@ -108,7 +108,7 @@
     <string name="mode_normal">"mode_normal"</string>
     <string name="mode_unknown">"mode_inconnu"</string>
     <string name="change_mode">"Changer le mode"</string>
-    <string name="daily">"quotidien"</string>
+    <string name="daily"></string>
     <string name="monthly">"mensuel"</string>
     <string name="events">"événements"</string>
     <string name="client_data">"Données client"</string>
@@ -122,7 +122,7 @@
 rappprochez le téléphone au compteur d'eau"</string>
     <string name="no_data_from_nfc">"Aucune donnée de NFC"</string>
     <string name="device_info">"info appareil"</string>
-    <string name="history">"histoire"</string>
+    <string name="history"></string>
     <string name="january">"janvier"</string>
     <string name="february">"février"</string>
     <string name="march">"mars"</string>
@@ -141,7 +141,7 @@ rappprochez le téléphone au compteur d'eau"</string>
     <string name="volume_reset">"volume réinitialisation"</string>
     <string name="installation">"installation"</string>
     <string name="exchange">"échange"</string>
-    <string name="baan_number">"Numéro BAAN"</string>
+    <string name="baan_number">"BAAN"</string>
     <string name="implementation">"exécution"</string>
     <string name="length">"longueur"</string>
     <string name="fabric">"materiel"</string>
@@ -160,7 +160,7 @@ rappprochez le téléphone au compteur d'eau"</string>
     <string name="reverse_flow_m3">"flux inversé (m³)"</string>
     <string name="change">"changez"</string>
     <string name="watermeter_date_and_time">"Compteur d'eau heure et date"</string>
-    <string name="credits_usage">"L'utilisation de prêts"</string>
+    <string name="credits_usage"></string>
     <string name="total_limit">"Limite totale:"</string>
     <string name="mode">"mode"</string>
     <string name="time">"temps"</string>
@@ -170,7 +170,7 @@ rappprochez le téléphone au compteur d'eau"</string>
     <string name="soft">"doux"</string>
     <string name="date">"date"</string>
     <string name="production_date">"Date de production"</string>
-    <string name="watermeter_semaphores">"Sémaphores de compteurs d'eau"</string>
+    <string name="watermeter_semaphores">"Sémaphores"</string>
     <string name="back">"dos"</string>
     <string name="next">"plus"</string>
     <string name="wrong_device">"Appareil invalide"</string>
@@ -189,7 +189,7 @@ rappprochez le téléphone au compteur d'eau"</string>
     <string name="credit">"crédit"</string>
     <string name="forgot_password">"Mot de passe oublié"</string>
     <string name="use_fingerprint_to_login">"Connexion par empreinte digitale"</string>
-    <string name="diary">"tous les jours"</string>
+    <string name="diary"></string>
     <string name="watermeter_reading_m3">"Affichage du compteur d'eau (m³)"</string>
     <string name="watermeter_reading_l">"Affichage du compteur d'eau (L)"</string>
     <string name="option_not_available">"L'option n'est pas disponible pour les compteurs d'eau TA1"</string>
@@ -241,9 +241,9 @@ vitesse de rotation"</string>
     <string name="sent_messages">"Messages envoyés"</string>
     <string name="communication_credits">"Prêts de communication"</string>
     <string name="listening_credits">"Prêts à l'écoute"</string>
-    <string name="na_serial_number">"Superposition du numéro de série"</string>
+    <string name="na_serial_number"></string>
     <string name="summer_time">"Heure d'été"</string>
-    <string name="timezone_shift">"Décalage horaire"</string>
+    <string name="timezone_shift"></string>
     <string name="turn_weight">"Poids de rotation"</string>
     <string name="entered_volume">"Le volume entré"</string>
     <string name="saving_measurements">"Se souvenir des indications"</string>
@@ -258,17 +258,17 @@ vitesse de rotation"</string>
     <string name="indicator_current_position">"Position actuelle du pointeur"</string>
     <string name="indicator_previous_position">"Position de pointe précédente"</string>
     <string name="current_temperature">"Température actuelle"</string>
-    <string name="work_in_range_minus15_10">"Fonctionnement dans la plage de température &lt;-15; 10&gt; ° C"</string>
-    <string name="work_in_range_10_15">"Fonctionnement dans la plage de température &lt;10; 15&gt; ° C"</string>
-    <string name="work_in_range_15_25">"Fonctionnement dans la plage de température &lt;15; 25&gt; ° C"</string>
-    <string name="work_in_range_25_30">"Fonctionnement dans la plage de température &lt;25; 30&gt; ° C"</string>
-    <string name="work_in_range_30_60">"Fonctionnement dans la plage de température &lt;30; 60&gt; ° C"</string>
-    <string name="work_in_range_minut15_60">"Fonctionnement dans la plage de température &lt;-15; 60&gt; ° C"</string>
+    <string name="work_in_range_minus15_10">"Fonctionnement dans la plage &lt;-15; 10&gt; ° C"</string>
+    <string name="work_in_range_10_15">"Fonctionnement dans la plage &lt;10; 15&gt; ° C"</string>
+    <string name="work_in_range_15_25">"Fonctionnement dans la plage &lt;15; 25&gt; ° C"</string>
+    <string name="work_in_range_25_30">"Fonctionnement dans la plage &lt;25; 30&gt; ° C"</string>
+    <string name="work_in_range_30_60">"Fonctionnement dans la plage &lt;30; 60&gt; ° C"</string>
+    <string name="work_in_range_minut15_60">"Fonctionnement dans la plage &lt;-15; 60&gt; ° C"</string>
     <string name="indicator_turns_count">"Nombre de révolutions de pointeur"</string>
     <string name="volume">"volume"</string>
     <string name="detecting_events">"Détection d'événement"</string>
     <string name="battery_usage_threshold_exceeded">"Seuil d'utilisation de la batterie dépassé"</string>
-    <string name="detecting_events_turned_off">"Détection d'événement désactivée"</string>
+    <string name="detecting_events_turned_off"></string>
     <string name="max_allowed_volume_in_day">"Volume maximum autorisé pendant la journée"</string>
     <string name="max_allowed_volume_in_days">"Volume maximum autorisé pendant un nombre donné de jours de stationnement"</string>
     <string name="number_of_stop_days">"Nombre de jours de stationnement"</string>
@@ -315,14 +315,14 @@ vitesse de rotation"</string>
     <string name="app_has_been_downloaded_starting_update">"L'application a été téléchargée. Commencez l'installation."</string>
     <string name="turned_on">"permis"</string>
     <string name="turned_off">"handicapé"</string>
-    <string name="account_settings">"Paramètres du compte"</string>
+    <string name="account_settings"></string>
     <string name="password_change">"Changement de mot de passe"</string>
     <string name="logging_to_application">"Connectez-vous à l'application"</string>
     <string name="logging_using_fingerprint">"Connectez-vous avec votre empreinte digitale"</string>
     <string name="server_address">"Adresse du serveur"</string>
     <string name="server_address_hint">"Adresse du serveur (pas de valeur par défaut)"</string>
     <string name="restore_default_address">"Restaurer l'adresse par défaut"</string>
-    <string name="app_settings">"Paramètres d'application"</string>
+    <string name="app_settings"></string>
     <string name="app_sounds">"Sons d'application"</string>
     <string name="sound_notifications_during_read_and_write_operations">"Signal sonore lors de la lecture et de l'écriture des données des compteurs d'eau"</string>
     <string name="google_geocode_api_key">"Clé de géocodage du service Google"</string>
