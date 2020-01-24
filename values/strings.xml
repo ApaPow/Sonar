@@ -20,9 +20,9 @@
     <string name="client_name">"Customer name"</string>
     <string name="city">"City"</string>
     <string name="postcode">"ZIP code"</string>
-    <string name="mounted_watermeter_number">"Number of installed water meter"</string>
+    <string name="mounted_watermeter_number">"water meter S/N"</string>
     <string name="communication_module_number">"Number of communication module"</string>
-    <string name="mounted_watermeter_reading">"Indication of the installed water meter (m³)"</string>
+    <string name="mounted_watermeter_reading">"Indication of water meter (m³)"</string>
 
     <!-- Fuzzy -->
     <string name="q3_flow">"Flow Q3 (m³)"</string>
@@ -34,10 +34,10 @@
     <string name="watermeter_length">"Water meter length (mm)"</string>
 
     <!-- Fuzzy -->
-    <string name="dismounted_watermeter_number">"Disassembled water meter number"</string>
+    <string name="dismounted_watermeter_number">"Water meter number"</string>
 
     <!-- Fuzzy -->
-    <string name="dismounted_watermeter_reading">"Indication of the disassembled water meter (m³)"</string>
+    <string name="dismounted_watermeter_reading">"Indication of water meter (m³)"</string>
 
     <!-- Fuzzy -->
     <string name="operation_type">"Type of operation"</string>
@@ -67,7 +67,7 @@
     <string name="charts">"Charts"</string>
 
     <!-- Fuzzy -->
-    <string name="nfc_communication_in_progress">"NFC communication in progress"</string>
+    <string name="nfc_communication_in_progress">"Communication in progress"</string>
     <string name="progress">"Progress"</string>
 
     <!-- Fuzzy -->
@@ -122,7 +122,7 @@
     <string name="cannot_read_data_from_watermeter">"Information from water meter couldn't be downloaded"</string>
 
     <!-- Fuzzy -->
-    <string name="installed_seals_number">"Serial numbers of the inserted seals"</string>
+    <string name="installed_seals_number">"Seals"</string>
 
     <!-- Fuzzy -->
     <string name="pictures">"Photos"</string>
@@ -192,9 +192,7 @@
 
     <!-- Fuzzy -->
     <string name="change_mode">"Change mode"</string>
-
-    <!-- Fuzzy -->
-    <string name="daily">"Daily"</string>
+    <string name="daily"></string>
     <string name="monthly">"Monthly"</string>
     <string name="events">"Events"</string>
 
@@ -226,9 +224,7 @@ place a phone on the water meter"</string>
 
     <!-- Fuzzy -->
     <string name="device_info">"Front plate"</string>
-
-    <!-- Fuzzy -->
-    <string name="history">"History"</string>
+    <string name="history"></string>
     <string name="january">"January"</string>
     <string name="february">"February"</string>
     <string name="march">"March"</string>
@@ -255,7 +251,7 @@ place a phone on the water meter"</string>
     <string name="exchange">"Exchange"</string>
 
     <!-- Fuzzy -->
-    <string name="baan_number">"BAAN number"</string>
+    <string name="baan_number">"BAAN"</string>
 
     <!-- Fuzzy -->
     <string name="implementation">"Execution"</string>
@@ -276,10 +272,10 @@ place a phone on the water meter"</string>
     <string name="software_version">"Software version"</string>
 
     <!-- Fuzzy -->
-    <string name="electronics_serial_number">"Electronics SN"</string>
+    <string name="electronics_serial_number">"Electronics S/N"</string>
 
     <!-- Fuzzy -->
-    <string name="watermeter_serial_number">"Water meter SN"</string>
+    <string name="watermeter_serial_number">"Water meter S/N"</string>
 
     <!-- Fuzzy -->
     <string name="daily_reading">"Daily reading"</string>
@@ -310,7 +306,7 @@ place a phone on the water meter"</string>
     <string name="watermeter_date_and_time">"Time &amp; date in water meter"</string>
 
     <!-- Fuzzy -->
-    <string name="credits_usage">"Credits usage"</string>
+    <string name="credits_usage">"Credits"</string>
 
     <!-- Fuzzy -->
     <string name="total_limit">"Total limit:"</string>
@@ -334,7 +330,7 @@ place a phone on the water meter"</string>
     <string name="production_date">"Date of production"</string>
 
     <!-- Fuzzy -->
-    <string name="watermeter_semaphores">"Water meter semaphores"</string>
+    <string name="watermeter_semaphores">"Semaphores"</string>
     <string name="back">"Back"</string>
     <string name="next">"Next"</string>
 
@@ -427,9 +423,9 @@ access error"</string>
     <string name="sent_messages">"Sent messages"</string>
     <string name="communication_credits">"Communication credits"</string>
     <string name="listening_credits">"Listening credits"</string>
-    <string name="na_serial_number">"Module serial number"</string>
+    <string name="na_serial_number">"Module S/N"</string>
     <string name="summer_time">"Daylight saving time"</string>
-    <string name="timezone_shift">"Time zone offset"</string>
+    <string name="timezone_shift">"Time zone"</string>
     <string name="turn_weight">"Rotation weight"</string>
     <string name="entered_volume">"Entered volume"</string>
     <string name="saving_measurements">"Indications saving"</string>
@@ -444,17 +440,17 @@ access error"</string>
     <string name="indicator_current_position">"Current pointer position"</string>
     <string name="indicator_previous_position">"Previous pointer position"</string>
     <string name="current_temperature">"Current temperature"</string>
-    <string name="work_in_range_minus15_10">"Operation in temperature range &lt;-15;10&gt; °C"</string>
-    <string name="work_in_range_10_15">"Operation in temperature range &lt;10;15&gt; °C"</string>
-    <string name="work_in_range_15_25">"Operation in temperature range &lt;15;25&gt; °C"</string>
-    <string name="work_in_range_25_30">"Operation in temperature range &lt;25;30&gt; °C"</string>
-    <string name="work_in_range_30_60">"Operation in temperature range &lt;30;60&gt; °C"</string>
-    <string name="work_in_range_minut15_60">"Operation in temperature range &lt;-15;60&gt; °C"</string>
+    <string name="work_in_range_minus15_10">"Operation in range &lt;-15;10&gt; °C"</string>
+    <string name="work_in_range_10_15">"Operation in range &lt;10;15&gt; °C"</string>
+    <string name="work_in_range_15_25">"Operation in range &lt;15;25&gt; °C"</string>
+    <string name="work_in_range_25_30">"Operation in range &lt;25;30&gt; °C"</string>
+    <string name="work_in_range_30_60">"Operation in range &lt;30;60&gt; °C"</string>
+    <string name="work_in_range_minut15_60">"Operation in ange &lt;-15;60&gt; °C"</string>
     <string name="indicator_turns_count">"Pointer rotation counter"</string>
     <string name="volume">"Volume"</string>
     <string name="detecting_events">"Event detection"</string>
     <string name="battery_usage_threshold_exceeded">"Battery usage threshold exceeded"</string>
-    <string name="detecting_events_turned_off">"Event detection disabled"</string>
+    <string name="detecting_events_turned_off"></string>
     <string name="max_allowed_volume_in_day">"Maximum allowed volume during the day"</string>
     <string name="max_allowed_volume_in_days">"Maximum allowed volume during defined number of standstill days"</string>
     <string name="number_of_stop_days">"Standstill days number"</string>
@@ -501,14 +497,14 @@ access error"</string>
     <string name="app_has_been_downloaded_starting_update">"The application has been downloaded. Begin installation."</string>
     <string name="turned_on">"Turned on"</string>
     <string name="turned_off">"Turned off"</string>
-    <string name="account_settings">"Account settings"</string>
+    <string name="account_settings"></string>
     <string name="password_change">"Change password"</string>
     <string name="logging_to_application">"Log in to application"</string>
     <string name="logging_using_fingerprint">"Log in with fingerprint"</string>
     <string name="server_address">"Server address"</string>
     <string name="server_address_hint">"Server address (none - default value)"</string>
     <string name="restore_default_address">"Restore default address"</string>
-    <string name="app_settings">"Application settings"</string>
+    <string name="app_settings"></string>
     <string name="app_sounds">"Application sounds"</string>
     <string name="sound_notifications_during_read_and_write_operations">"Sound communication when reading from / writing to water meters"</string>
     <string name="google_geocode_api_key">"Google service geocoding key"</string>
