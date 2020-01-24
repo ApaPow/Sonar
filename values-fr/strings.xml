@@ -24,7 +24,7 @@
     <string name="mounted_watermeter_number"></string>
     <string name="communication_module_number">"Numéro du module de communication"</string>
     <string name="mounted_watermeter_reading">"Indication du compteur d'eau (m³)"</string>
-    <string name="q3_flow">"Flux Q3 (m³)"</string>
+    <string name="q3_flow">"Flux Q3 (m³/h)"</string>
     <string name="diameter">"diamètre"</string>
     <string name="watermeter_length">"Longueur du compteur d'eau (mm)"</string>
 
@@ -36,7 +36,7 @@
     <string name="dismounted_watermeter_reading">"Indication du compteur d'eau (m³)"</string>
     <string name="operation_type">"Type d'opération"</string>
     <string name="geographic_positions">"Coordonnées géographiques"</string>
-    <string name="installed_device">"L'appareil en cours d'installation"</string>
+    <string name="installed_device"></string>
     <string name="watermeter_type">"Type de compteur d'eau"</string>
     <string name="main_watermeter">"Compteur d'eau principal"</string>
 
@@ -111,7 +111,7 @@
     <string name="daily"></string>
     <string name="monthly">"mensuel"</string>
     <string name="events">"événements"</string>
-    <string name="client_data">"Données client"</string>
+    <string name="client_data"></string>
     <string name="get_daily_data">"Télécharger les données quotidiennes"</string>
     <string name="get_monthly_data">"Télécharger les données mensuelles"</string>
     <string name="get_events_log">"Télécharger le journal des événements"</string>
@@ -139,7 +139,7 @@ rappprochez le téléphone au compteur d'eau"</string>
     <string name="settings">"paramètres"</string>
     <string name="calibration">"étalonnage"</string>
     <string name="volume_reset">"volume réinitialisation"</string>
-    <string name="installation">"installation"</string>
+    <string name="installation"></string>
     <string name="exchange">"échange"</string>
     <string name="baan_number">"BAAN"</string>
     <string name="implementation">"exécution"</string>
@@ -392,7 +392,7 @@ vitesse de rotation"</string>
     <string name="want_to_remove_this_picture">"Voulez-vous supprimer cette photo?"</string>
     <string name="setting_new_time_influences_logs_continue">"Le réglage d'une nouvelle date et heure affecte l'enregistrement correct des journaux. Tu veux continuer"</string>
     <string name="mode_restart">"recommencer"</string>
-    <string name="client_address">"Adresse du client"</string>
+    <string name="client_address">"Adresse"</string>
     <string name="exchange_form">"Formulaire d'échange"</string>
     <string name="installation_form">"Formulaire d'assemblage"</string>
     <string name="of_ultrimis_watermeter">"Ultrimis compteur d'eau"</string>
@@ -462,12 +462,12 @@ Informations sur le périphérique:
     <string name="modifying_logging_limit">"Limite de modification de connexion"</string>
     <string name="watermeter_credits_info">"Les valeurs prédites sont présentées pour les compteurs d'eau dans les versions TA1-TA3. Les valeurs réelles sont présentées pour la version TA4."</string>
     <string name="length_in_marks">"longueur% d caractères"</string>
-    <string name="device_access_password">"Mot de passe d'accès au périphérique"</string>
+    <string name="device_access_password"></string>
     <string name="wrong_password_length">"Mot de passe invalide entré"</string>
     <string name="password_has_been_added">"Le mot de passe a été ajouté"</string>
     <string name="password_has_not_been_added">"Impossible d'ajouter le mot de passe"</string>
     <string name="entering_password">"Entrée du mot de passe"</string>
-    <string name="no_password_required_to_read_data_from_device_enter_password_to_continue">"Aucun mot de passe n'est requis pour télécharger des informations à partir de l'appareil. Pour continuer l'opération, veuillez saisir les données d'accès au périphérique."</string>
+    <string name="no_password_required_to_read_data_from_device_enter_password_to_continue"></string>
     <string name="daily_log_mode1_description">"- date
 - indication du compteur d'eau
 - volume arrière
