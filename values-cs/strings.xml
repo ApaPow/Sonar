@@ -21,14 +21,14 @@
     <string name="mounted_watermeter_number"></string>
     <string name="communication_module_number">"Číslo komunikačního modulu"</string>
     <string name="mounted_watermeter_reading">"Indikace namontovaného vodoměru (m³)"</string>
-    <string name="q3_flow">"Průtok Q3 (m³)"</string>
+    <string name="q3_flow">"Průtok Q3 (m³/h)"</string>
     <string name="diameter">"průměr"</string>
     <string name="watermeter_length">"Délka vodoměru (mm)"</string>
     <string name="dismounted_watermeter_number">"Číslo vodoměru"</string>
     <string name="dismounted_watermeter_reading">"Indikace vodoměru (m³)"</string>
     <string name="operation_type">"Typ operace"</string>
     <string name="geographic_positions">"Zeměpisné souřadnice"</string>
-    <string name="installed_device">"Probíhá instalace zařízení"</string>
+    <string name="installed_device"></string>
     <string name="watermeter_type">"Typ vodoměru"</string>
     <string name="main_watermeter">"Hlavní metr"</string>
     <string name="subwatermeter">"Sumbmeter"</string>
@@ -89,7 +89,7 @@
     <string name="daily"></string>
     <string name="monthly">"Měsíční objem"</string>
     <string name="events">"Události"</string>
-    <string name="client_data">"Údaje o zákaznících"</string>
+    <string name="client_data"></string>
     <string name="get_daily_data">"Stáhněte si denní data"</string>
     <string name="get_monthly_data">"Stáhněte si měsíční data"</string>
     <string name="get_events_log">"Stáhněte si protokol událostí"</string>
@@ -117,7 +117,7 @@ postavte telefon do vodoměru"</string>
     <string name="settings">"Nastavení"</string>
     <string name="calibration">"kalibrace"</string>
     <string name="volume_reset">"Reset displeje"</string>
-    <string name="installation">"Montáž"</string>
+    <string name="installation"></string>
     <string name="exchange">"výměna"</string>
     <string name="baan_number">"BAAN"</string>
     <string name="implementation">"poprava"</string>
@@ -370,7 +370,7 @@ zařízení"</string>
     <string name="want_to_remove_this_picture">"Chcete tuto fotku smazat?"</string>
     <string name="setting_new_time_influences_logs_continue">"Nastavení nového data a času ovlivní správné zaznamenávání protokolů. Chcete pokračovat"</string>
     <string name="mode_restart">"restart"</string>
-    <string name="client_address">"Adresa zákazníka"</string>
+    <string name="client_address">"Adresa"</string>
     <string name="exchange_form">"Výměnný formulář"</string>
     <string name="installation_form">"Montážní formulář"</string>
     <string name="of_ultrimis_watermeter">"Ultrimis vodoměr"</string>
@@ -440,12 +440,12 @@ Informace o zařízení:
     <string name="modifying_logging_limit">"Limit modifikace přihlášení"</string>
     <string name="watermeter_credits_info">"Předpovídané hodnoty jsou uvedeny pro vodoměry ve verzi TA1-TA3. Aktuální hodnoty jsou uvedeny pro verzi TA4."</string>
     <string name="length_in_marks">"délka% d znaků"</string>
-    <string name="device_access_password">"Heslo pro přístup k zařízení"</string>
+    <string name="device_access_password"></string>
     <string name="wrong_password_length">"Zadáno neplatné heslo"</string>
     <string name="password_has_been_added">"Heslo bylo přidáno"</string>
     <string name="password_has_not_been_added">"Nepodařilo se přidat heslo"</string>
     <string name="entering_password">"Zadání hesla"</string>
-    <string name="no_password_required_to_read_data_from_device_enter_password_to_continue">"Pro stahování informací ze zařízení není potřeba žádné heslo. Chcete-li v této operaci pokračovat, zadejte přístupová data zařízení."</string>
+    <string name="no_password_required_to_read_data_from_device_enter_password_to_continue"></string>
     <string name="daily_log_mode1_description">"- datum
 - indikace vodoměru
 - zadní objem
