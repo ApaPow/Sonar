@@ -23,14 +23,14 @@
     <string name="mounted_watermeter_reading">"Anzeige des Wasserzählers (m³)"</string>
 
     <!-- Fuzzy -->
-    <string name="q3_flow">"Fluss Q3 (m³)"</string>
+    <string name="q3_flow">"Fluss Q3 (m³/h)"</string>
     <string name="diameter">"Durchmesser"</string>
     <string name="watermeter_length">"Länge des Wasserzählers (mm)"</string>
     <string name="dismounted_watermeter_number">"Die Nummer des Wasserzählers"</string>
     <string name="dismounted_watermeter_reading">"Anzeige des Wasserzählers (m³)"</string>
     <string name="operation_type">"Art des Vorgangs"</string>
     <string name="geographic_positions">"Geographische Koordinaten"</string>
-    <string name="installed_device">"Installiertes Gerät"</string>
+    <string name="installed_device"></string>
     <string name="watermeter_type">"Art des Wasserzählers"</string>
     <string name="main_watermeter">"Hauptzähler"</string>
     <string name="subwatermeter">"Unterzähler"</string>
@@ -95,7 +95,7 @@
     <string name="daily"></string>
     <string name="monthly">"Monatlich"</string>
     <string name="events">"Veranstaltungen"</string>
-    <string name="client_data">"Kundendaten"</string>
+    <string name="client_data"></string>
     <string name="get_daily_data">"Tägliche Daten herunterladen"</string>
     <string name="get_monthly_data">"Monatliche Daten herunterladen"</string>
     <string name="get_events_log">"Ereignisprotokoll herunterladen"</string>
@@ -123,7 +123,7 @@ Legen Sie ein Telefon auf den Wasserzähler"</string>
     <string name="settings">"die Einstellungen"</string>
     <string name="calibration">"Kalibrierung"</string>
     <string name="volume_reset">"Anzeigen zurücksetzen"</string>
-    <string name="installation">"Installation"</string>
+    <string name="installation"></string>
     <string name="exchange">"Austausch"</string>
     <string name="baan_number">"BAAN"</string>
     <string name="implementation">"Ausführung"</string>
@@ -380,7 +380,7 @@ Zugriffsfehler"</string>
     <string name="want_to_remove_this_picture">"Möchten Sie dieses Foto löschen?"</string>
     <string name="setting_new_time_influences_logs_continue">"Das Einstellen eines neuen Datums und einer neuen Uhrzeit wirkt sich auf die korrekte Aufzeichnung von Protokollen aus. Wollen Sie fortfahren"</string>
     <string name="mode_restart">"Neustart"</string>
-    <string name="client_address">"Kundenadresse"</string>
+    <string name="client_address">"Adresse"</string>
     <string name="exchange_form">"Ersatzformular"</string>
     <string name="installation_form">"Installationsformular"</string>
     <string name="of_ultrimis_watermeter">"Ultrimis Wasserzähler"</string>
@@ -451,12 +451,12 @@ Informationen zum Gerät:
     <string name="modifying_logging_limit">"Anmeldungsänderungslimit"</string>
     <string name="watermeter_credits_info">"Die vorhergesagten Werte werden für Wasserzähler in den Versionen TA1-TA3 angegeben. Die aktuellen Werte werden für die TA4-Version angezeigt."</string>
     <string name="length_in_marks">"Länge% d Zeichen"</string>
-    <string name="device_access_password">"Gerätezugriffskennwort"</string>
+    <string name="device_access_password"></string>
     <string name="wrong_password_length">"Ungültiges Passwort eingegeben"</string>
     <string name="password_has_been_added">"Passwort wurde hinzugefügt"</string>
     <string name="password_has_not_been_added">"Passwort konnte nicht hinzugefügt werden"</string>
     <string name="entering_password">"Passworteingabe"</string>
-    <string name="no_password_required_to_read_data_from_device_enter_password_to_continue">"Es ist kein Kennwort erforderlich, um Informationen vom Gerät herunterzuladen. Geben Sie die Zugangsdaten für das Gerät ein, um den Vorgang fortzusetzen."</string>
+    <string name="no_password_required_to_read_data_from_device_enter_password_to_continue"></string>
     <string name="daily_log_mode1_description">"- Datum
 - Wasserzähleranzeige
 - Lautstärke zurück
