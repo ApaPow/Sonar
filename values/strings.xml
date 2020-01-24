@@ -25,7 +25,7 @@
     <string name="mounted_watermeter_reading">"Indication of water meter (m³)"</string>
 
     <!-- Fuzzy -->
-    <string name="q3_flow">"Flow Q3 (m³)"</string>
+    <string name="q3_flow">"Flow Q3 (m³/h)"</string>
 
     <!-- Fuzzy -->
     <string name="diameter">"Diameter"</string>
@@ -44,7 +44,7 @@
     <string name="geographic_positions">"Geographical coordinates"</string>
 
     <!-- Fuzzy -->
-    <string name="installed_device">"Installed device"</string>
+    <string name="installed_device">"Type of device"</string>
 
     <!-- Fuzzy -->
     <string name="watermeter_type">"Water meter type"</string>
@@ -195,9 +195,7 @@
     <string name="daily"></string>
     <string name="monthly">"Monthly"</string>
     <string name="events">"Events"</string>
-
-    <!-- Fuzzy -->
-    <string name="client_data">"Customer data"</string>
+    <string name="client_data"></string>
 
     <!-- Fuzzy -->
     <string name="get_daily_data">"Download daily data"</string>
@@ -247,7 +245,7 @@ place a phone on the water meter"</string>
 
     <!-- Fuzzy -->
     <string name="volume_reset">"Indications reset"</string>
-    <string name="installation">"Installation"</string>
+    <string name="installation"></string>
     <string name="exchange">"Exchange"</string>
 
     <!-- Fuzzy -->
@@ -574,7 +572,7 @@ access error"</string>
     <string name="want_to_remove_this_picture">"Do you want to delete this photo?"</string>
     <string name="setting_new_time_influences_logs_continue">"Setting a new date and time affects the correct recording of logs. Do you want to continue"</string>
     <string name="mode_restart">"Restart"</string>
-    <string name="client_address">"Customer address"</string>
+    <string name="client_address">"Address"</string>
     <string name="exchange_form">"Replacement form"</string>
     <string name="installation_form">"Installation form"</string>
     <string name="of_ultrimis_watermeter">"Ultrimis water meter"</string>
@@ -645,12 +643,12 @@ Information about device:
     <string name="modifying_logging_limit">"Login modification limit"</string>
     <string name="watermeter_credits_info">"Predicted values are presented for water meters in versions TA1-TA3. Actual values are presented for TA4 version."</string>
     <string name="length_in_marks">"length %d characters"</string>
-    <string name="device_access_password">"Device access password"</string>
+    <string name="device_access_password"></string>
     <string name="wrong_password_length">"Entered password has invalid length"</string>
     <string name="password_has_been_added">"Password has been added"</string>
     <string name="password_has_not_been_added">"Failed to add password"</string>
     <string name="entering_password">"Password entry"</string>
-    <string name="no_password_required_to_read_data_from_device_enter_password_to_continue">"There is no password needed to download information from device. To continue the operation, please enter the device access data."</string>
+    <string name="no_password_required_to_read_data_from_device_enter_password_to_continue"></string>
     <string name="daily_log_mode1_description">"- date
 - water meter indication
 - reverse volume
