@@ -18,7 +18,7 @@
     <string name="client_name">"Kundenname"</string>
     <string name="city">"Stadt"</string>
     <string name="postcode">"Postleitzahl"</string>
-    <string name="mounted_watermeter_number"></string>
+    <string name="mounted_watermeter_number">"Die Nummer des installierten Wasserzählers"</string>
     <string name="communication_module_number">"Die Nummer des Kommunikationsmoduls"</string>
     <string name="mounted_watermeter_reading">"Anzeige des Wasserzählers (m³)"</string>
 
@@ -30,7 +30,7 @@
     <string name="dismounted_watermeter_reading">"Anzeige des Wasserzählers (m³)"</string>
     <string name="operation_type">"Art des Vorgangs"</string>
     <string name="geographic_positions">"Geographische Koordinaten"</string>
-    <string name="installed_device"></string>
+    <string name="installed_device">"Installiertes Gerät"</string>
     <string name="watermeter_type">"Art des Wasserzählers"</string>
     <string name="main_watermeter">"Hauptzähler"</string>
     <string name="subwatermeter">"Unterzähler"</string>
@@ -60,7 +60,7 @@
     <string name="form_saved">"Das Formular wurde gespeichert"</string>
     <string name="form_save_error">"Das Formular konnte nicht gespeichert werden"</string>
     <string name="cannot_read_data_from_watermeter">"Die Informationen des Wasserzählers konnten nicht heruntergeladen werden"</string>
-    <string name="installed_seals_number"></string>
+    <string name="installed_seals_number">"Seriennummern der eingesetzten Dichtungen"</string>
     <string name="pictures">"Fotos"</string>
 
     <!-- Fuzzy -->
@@ -92,10 +92,10 @@
     <string name="mode_normal">"Normaler Modus"</string>
     <string name="mode_unknown">"Unbekannter Modus"</string>
     <string name="change_mode">"Ändern Sie den Modus"</string>
-    <string name="daily"></string>
+    <string name="daily">"Täglich"</string>
     <string name="monthly">"Monatlich"</string>
     <string name="events">"Veranstaltungen"</string>
-    <string name="client_data"></string>
+    <string name="client_data">"Kundendaten"</string>
     <string name="get_daily_data">"Tägliche Daten herunterladen"</string>
     <string name="get_monthly_data">"Monatliche Daten herunterladen"</string>
     <string name="get_events_log">"Ereignisprotokoll herunterladen"</string>
@@ -106,7 +106,7 @@
 Legen Sie ein Telefon auf den Wasserzähler"</string>
     <string name="no_data_from_nfc">"Keine Daten von NFC"</string>
     <string name="device_info">"Schild"</string>
-    <string name="history"></string>
+    <string name="history">"Geschichte"</string>
     <string name="january">"Januar"</string>
     <string name="february">"Februar"</string>
     <string name="march">"März"</string>
@@ -123,7 +123,7 @@ Legen Sie ein Telefon auf den Wasserzähler"</string>
     <string name="settings">"die Einstellungen"</string>
     <string name="calibration">"Kalibrierung"</string>
     <string name="volume_reset">"Anzeigen zurücksetzen"</string>
-    <string name="installation"></string>
+    <string name="installation">"Montage"</string>
     <string name="exchange">"Austausch"</string>
     <string name="baan_number">"BAAN"</string>
     <string name="implementation">"Ausführung"</string>
@@ -246,17 +246,17 @@ Zugriffsfehler"</string>
     <string name="indicator_current_position">"Aktuelle Zeigerposition"</string>
     <string name="indicator_previous_position">"Vorherige Zeigerposition"</string>
     <string name="current_temperature">"Aktuelle Temperatur"</string>
-    <string name="work_in_range_minus15_10"></string>
-    <string name="work_in_range_10_15"></string>
-    <string name="work_in_range_15_25"></string>
-    <string name="work_in_range_25_30"></string>
-    <string name="work_in_range_30_60"></string>
-    <string name="work_in_range_minut15_60"></string>
+    <string name="work_in_range_minus15_10">"Betrieb im Temperaturbereich &lt;-15; 10&gt; °C"</string>
+    <string name="work_in_range_10_15">"Betrieb im Temperaturbereich &lt;10; 15&gt; °C"</string>
+    <string name="work_in_range_15_25">"Betrieb im Temperaturbereich &lt;15; 25&gt; °C"</string>
+    <string name="work_in_range_25_30">"Betrieb im Temperaturbereich &lt;25; 30&gt; °C"</string>
+    <string name="work_in_range_30_60">"Betrieb im Temperaturbereich &lt;30; 60&gt; °C"</string>
+    <string name="work_in_range_minut15_60">"Betrieb im Temperaturbereich &lt;-15; 60&gt; °C"</string>
     <string name="indicator_turns_count">"Zeigerdrehungszähler"</string>
     <string name="volume">"Volumen"</string>
     <string name="detecting_events">"Ereigniserkennung"</string>
     <string name="battery_usage_threshold_exceeded">"Batterieleistung überschritten"</string>
-    <string name="detecting_events_turned_off"></string>
+    <string name="detecting_events_turned_off">"Ereigniserkennung deaktiviert"</string>
     <string name="max_allowed_volume_in_day">"Maximal zulässige Lautstärke während des Tages"</string>
     <string name="max_allowed_volume_in_days">"Maximales zulässiges Volumen in den festgelegten Stillstandstagen"</string>
     <string name="number_of_stop_days">"Anzahl Stillstandtage"</string>
@@ -303,14 +303,14 @@ Zugriffsfehler"</string>
     <string name="app_has_been_downloaded_starting_update">"Die Anwendung wurde heruntergeladen. Beginnen Sie mit der Installation."</string>
     <string name="turned_on">"Eingeschaltet"</string>
     <string name="turned_off">"Ausgeschaltet"</string>
-    <string name="account_settings"></string>
+    <string name="account_settings">"Kontoeinstellungen"</string>
     <string name="password_change">"Passwort ändern"</string>
     <string name="logging_to_application">"Melden Sie sich bei der Anwendung an"</string>
     <string name="logging_using_fingerprint">"Mit Fingerabdruck einloggen"</string>
     <string name="server_address">"Serveradresse"</string>
     <string name="server_address_hint">"Serveradresse (keine - Standardwert)"</string>
     <string name="restore_default_address">"Standardadresse wiederherstellen"</string>
-    <string name="app_settings"></string>
+    <string name="app_settings">"Anwendungseinstellungen"</string>
     <string name="app_sounds">"Anwendungsgeräusche"</string>
     <string name="sound_notifications_during_read_and_write_operations">"Klangkommunikation beim Lesen / Schreiben von Wasserzählern"</string>
     <string name="google_geocode_api_key">"Geocodierungsschlüssel für den Google-Dienst"</string>
@@ -450,13 +450,9 @@ Informationen zum Gerät:
     <string name="calibrational">"Kalibrierung"</string>
     <string name="modifying_logging_limit">"Anmeldungsänderungslimit"</string>
     <string name="watermeter_credits_info">"Die vorhergesagten Werte werden für Wasserzähler in den Versionen TA1-TA3 angegeben. Die aktuellen Werte werden für die TA4-Version angezeigt."</string>
-    <string name="length_in_marks">"Länge% d Zeichen"</string>
-    <string name="device_access_password"></string>
     <string name="wrong_password_length">"Ungültiges Passwort eingegeben"</string>
     <string name="password_has_been_added">"Passwort wurde hinzugefügt"</string>
     <string name="password_has_not_been_added">"Passwort konnte nicht hinzugefügt werden"</string>
-    <string name="entering_password">"Passworteingabe"</string>
-    <string name="no_password_required_to_read_data_from_device_enter_password_to_continue"></string>
     <string name="daily_log_mode1_description">"- Datum
 - Wasserzähleranzeige
 - Lautstärke zurück
@@ -548,4 +544,24 @@ Monatsanfang (m³)"</string>
     <string name="text_new">"neu"</string>
     <string name="existing">"vorhanden"</string>
     <string name="number_of_added_keys">"Anzahl der hinzugefügten Schlüssel"</string>
+    <string name="lid_brass">"Messing mit Deckel"</string>
+    <string name="lid_plastic">"Composite mit Deckel"</string>
+    <string name="lid_map10_brass">"Messing MAP10 mit Deckel"</string>
+    <string name="lid_map10_plastic">"Verbund MAP10 mit Deckel"</string>
+    <string name="keys_database_is_damaged_contact_admin">"Die angegebene Verschlüsselungsschlüsseldatenbank ist beschädigt. Wenden Sie sich an den Administrator."</string>
+    <string name="enter_nfc_key">"Geben Sie den NFC-Schlüssel ein"</string>
+    <string name="enter_nfc2_password">"Gerätezugriffskennwort"</string>
+    <string name="entered_characters">"Eingegebene Zeichen:"</string>
+    <string name="no_nfc_key">"Kein NFC-Schlüssel"</string>
+    <string name="no_nfc2_password">"Kein NFC2-Passwort"</string>
+    <string name="check_internet_connection">"Überprüfen Sie die Internetverbindung."</string>
+    <string name="dynamic">"Dynamisch"</string>
+    <string name="dynamic_log">"Dynamisches Protokoll"</string>
+    <string name="histogram">"Histogramm"</string>
+    <string name="choosen_date_is_before_production_date">"Die ausgewählte Zeit liegt vor dem Herstellungsdatum des Geräts!"</string>
+    <string name="source">"Quelle"</string>
+    <string name="command">"Befehl"</string>
+    <string name="flow">"Durchströmung"</string>
+    <string name="month_volume">"
+Wasserzähleranzeige - Anfang des Monats"</string>
 </resources>
