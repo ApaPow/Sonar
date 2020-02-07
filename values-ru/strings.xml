@@ -28,7 +28,7 @@
     <string name="dismounted_watermeter_reading">"Дисплей водомера (м³)"</string>
     <string name="operation_type">"Тип операции"</string>
     <string name="geographic_positions">"Географические координаты"</string>
-    <string name="installed_device"></string>
+    <string name="installed_device">"Тип устройства"</string>
     <string name="watermeter_type">"Тип счетчика воды"</string>
     <string name="main_watermeter">"Счетчик основной воды"</string>
     <string name="subwatermeter">"Субсчетчик"</string>
@@ -90,10 +90,10 @@
     <string name="mode_normal">"нормальный"</string>
     <string name="mode_unknown">"неизвестный"</string>
     <string name="change_mode">"Изменить режим"</string>
-    <string name="daily"></string>
+    <string name="daily">"Регистры"</string>
     <string name="monthly">"Месячный объем"</string>
     <string name="events">"События"</string>
-    <string name="client_data"></string>
+    <string name="client_data">"Расположения точки"</string>
     <string name="get_daily_data">"Скачать ежедневные данные"</string>
     <string name="get_monthly_data">"Скачать данные за месяц"</string>
     <string name="get_events_log">"Скачать журнал событий"</string>
@@ -104,7 +104,7 @@
 положить телефон на счетчик воды"</string>
     <string name="no_data_from_nfc">"Нет данных от NFC"</string>
     <string name="device_info">"таблетка"</string>
-    <string name="history"></string>
+    <string name="history">"Регистры"</string>
     <string name="january">"Январь"</string>
     <string name="february">"Февраль"</string>
     <string name="march">"Март"</string>
@@ -121,7 +121,7 @@
     <string name="settings">"Настройки"</string>
     <string name="calibration">"калибровка"</string>
     <string name="volume_reset">"Сброс показаний"</string>
-    <string name="installation"></string>
+    <string name="installation">"Сервис"</string>
     <string name="exchange">"обмен"</string>
     <string name="baan_number">"BAAN"</string>
     <string name="implementation">"выполнение"</string>
@@ -146,7 +146,7 @@
     <string name="reverse_flow_m3">"Обратный поток (м³)"</string>
     <string name="change">"изменение"</string>
     <string name="watermeter_date_and_time">"Время и дата водомера"</string>
-    <string name="credits_usage"></string>
+    <string name="credits_usage">"Кредиты"</string>
     <string name="total_limit">"Общий лимит:"</string>
     <string name="mode">"режим"</string>
     <string name="time">"время"</string>
@@ -175,7 +175,7 @@
     <string name="credit">"кредит"</string>
     <string name="forgot_password">"Забыли пароль?"</string>
     <string name="use_fingerprint_to_login">"Войти используя отпечаток пальца"</string>
-    <string name="diary"></string>
+    <string name="diary">"Регистратор"</string>
     <string name="watermeter_reading_m3">"Дисплей водомера (м³)"</string>
     <string name="watermeter_reading_l">"Индикация счетчика воды (л)"</string>
     <string name="option_not_available">"Опция недоступна для счетчиков воды TA1"</string>
@@ -229,7 +229,7 @@
     <string name="listening_credits">"Прослушивание кредитов"</string>
     <string name="na_serial_number">"S/N модуля"</string>
     <string name="summer_time">"Летнее время"</string>
-    <string name="timezone_shift"></string>
+    <string name="timezone_shift">"Часовой пояс"</string>
     <string name="turn_weight">"Вес вращения"</string>
     <string name="entered_volume">"Введенный объем"</string>
     <string name="saving_measurements">"Показания к сохранению"</string>
@@ -244,17 +244,17 @@
     <string name="indicator_current_position">"Текущая позиция указателя"</string>
     <string name="indicator_previous_position">"Предыдущая позиция указателя"</string>
     <string name="current_temperature">"Текущая температура"</string>
-    <string name="work_in_range_minus15_10">"Работа в диапазоне &lt;-15; 10&gt; ° C"</string>
-    <string name="work_in_range_10_15">"Работа в диапазоне &lt;10; 15&gt; ° C"</string>
-    <string name="work_in_range_15_25">"Работа в диапазоне &lt;15; 25&gt; ° C"</string>
-    <string name="work_in_range_25_30">"Работа в диапазоне &lt;25; 30&gt; ° C"</string>
-    <string name="work_in_range_30_60">"Работа в диапазоне &lt;30; 60&gt; ° C"</string>
-    <string name="work_in_range_minut15_60">"Работа в диапазоне &lt;-15; 60&gt; ° C"</string>
+    <string name="work_in_range_minus15_10">"Работа в диапазоне &lt;-15; 10&gt; °C"</string>
+    <string name="work_in_range_10_15">"Работа в диапазоне &lt;10; 15&gt; °C"</string>
+    <string name="work_in_range_15_25">"Работа в диапазоне &lt;15; 25&gt; °C"</string>
+    <string name="work_in_range_25_30">"Работа в диапазоне &lt;25; 30&gt; °C"</string>
+    <string name="work_in_range_30_60">"Работа в диапазоне &lt;30; 60&gt; °C"</string>
+    <string name="work_in_range_minut15_60">"Работа в диапазоне &lt;-15; 60&gt; °C"</string>
     <string name="indicator_turns_count">"Счетчик вращения указателя"</string>
     <string name="volume">"Объем"</string>
     <string name="detecting_events">"Обнаружение событий"</string>
     <string name="battery_usage_threshold_exceeded">"Срок службы батареи превышен"</string>
-    <string name="detecting_events_turned_off"></string>
+    <string name="detecting_events_turned_off">"Регистрация событий отключена"</string>
     <string name="max_allowed_volume_in_day">"Максимально допустимый объем в течение дня"</string>
     <string name="max_allowed_volume_in_days">"Максимальный допустимый объем в течение желаемого количества дней простоя"</string>
     <string name="number_of_stop_days">"Количество дней простоя"</string>
@@ -301,14 +301,14 @@
     <string name="app_has_been_downloaded_starting_update">"Приложение было загружено. Начните установку."</string>
     <string name="turned_on">"Включенный"</string>
     <string name="turned_off">"Выключен"</string>
-    <string name="account_settings"></string>
+    <string name="account_settings">"Аккаунт"</string>
     <string name="password_change">"Изменение пароля"</string>
     <string name="logging_to_application">"Войти в приложение"</string>
     <string name="logging_using_fingerprint">"Войти с помощью отпечатка пальца"</string>
     <string name="server_address">"Адрес сервера"</string>
     <string name="server_address_hint">"Адрес сервера (нет - значение по умолчанию)"</string>
     <string name="restore_default_address">"Восстановить адрес по умолчанию"</string>
-    <string name="app_settings"></string>
+    <string name="app_settings">"Настройки"</string>
     <string name="app_sounds">"Звуки приложения"</string>
     <string name="sound_notifications_during_read_and_write_operations">"Звуковая коммуникация при чтении / записи на счетчики воды"</string>
     <string name="google_geocode_api_key">"Ключ геокодирования сервиса Google"</string>
@@ -448,13 +448,9 @@
     <string name="calibrational">"Калибровка"</string>
     <string name="modifying_logging_limit">"Лимит модифицирующий логин"</string>
     <string name="watermeter_credits_info">"Прогнозируемые величины представлены для счетчиков воды в версиях TA1-TA3. Фактические величины представлены для версии TA4."</string>
-    <string name="length_in_marks">"длина %d знаков"</string>
-    <string name="device_access_password"></string>
     <string name="wrong_password_length">"Неверная длина введенного пароля"</string>
     <string name="password_has_been_added">"Пароль был добавлен"</string>
     <string name="password_has_not_been_added">"Не удалось добавить пароль"</string>
-    <string name="entering_password">"Ввод пароля"</string>
-    <string name="no_password_required_to_read_data_from_device_enter_password_to_continue"></string>
     <string name="daily_log_mode1_description">"- дата
 - показание счетчика воды
 - обратный объём
@@ -546,4 +542,23 @@
     <string name="text_new">"новые"</string>
     <string name="existing">"существующие"</string>
     <string name="number_of_added_keys">"Количество добавленных ключей"</string>
+    <string name="lid_brass">"Латунь с крышкой"</string>
+    <string name="lid_plastic">"Композит с крышкой"</string>
+    <string name="lid_map10_brass">"Латунь MAP10 с крышкой"</string>
+    <string name="lid_map10_plastic">"Композит MAP10 с крышкой"</string>
+    <string name="keys_database_is_damaged_contact_admin">"Указанная база данных ключей шифрования повреждена. Обратитесь к администратору."</string>
+    <string name="enter_nfc_key">"Введите ключ NFC"</string>
+    <string name="enter_nfc2_password">"Введите пароль NFC2"</string>
+    <string name="entered_characters">"Введенные символы:"</string>
+    <string name="no_nfc_key">"Нет ключа NFC"</string>
+    <string name="no_nfc2_password">"Нет пароля NFC2"</string>
+    <string name="check_internet_connection">"Проверьте подключение к интернету."</string>
+    <string name="dynamic">"Динамические"</string>
+    <string name="dynamic_log">"Динамический журнал"</string>
+    <string name="histogram">"Гистограмма"</string>
+    <string name="choosen_date_is_before_production_date">"Выбранное время до даты изготовления устройства!"</string>
+    <string name="source">"Источник"</string>
+    <string name="command">"Команда"</string>
+    <string name="flow">"Поток"</string>
+    <string name="month_volume">"Показание счетчика воды - начало месяца"</string>
 </resources>
