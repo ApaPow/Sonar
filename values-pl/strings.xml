@@ -439,13 +439,9 @@ Informacje o urządzeniu:
     <string name="calibrational">"Kalibracyjne"</string>
     <string name="modifying_logging_limit">"Limit modyfikujący logowanie"</string>
     <string name="watermeter_credits_info">"Dla wodomierzy w wersjach TA1-TA3 prezentowane są wartości przewidywane. W przypadku wersji TA4 prezentowane są wartości rzeczywiste."</string>
-    <string name="length_in_marks">"długość %d znaków"</string>
-    <string name="device_access_password">"Podaj hasło NFC2"</string>
     <string name="wrong_password_length">"Niepoprawna długość wprowadzonego hasła"</string>
     <string name="password_has_been_added">"Hasło zostało dodane"</string>
     <string name="password_has_not_been_added">"Nie udało się dodać hasła"</string>
-    <string name="entering_password">"Wprowadzanie hasła"</string>
-    <string name="no_password_required_to_read_data_from_device_enter_password_to_continue">"Brak możliwości pobrania hasła NFC2 z serwera."</string>
     <string name="daily_log_mode1_description">"- data
 - wskazanie wodomierza
 - objętość wsteczna
@@ -537,4 +533,23 @@ początek miesiąca (m³)"</string>
     <string name="text_new">"nowe"</string>
     <string name="existing">"istniejące"</string>
     <string name="number_of_added_keys">"Liczba dodanych kluczy"</string>
+    <string name="lid_brass">"Mosiądz z pokrywką"</string>
+    <string name="lid_plastic">"Kompozyt z pokrywką"</string>
+    <string name="lid_map10_brass">"Mosiądz MAP10 z pokrywką"</string>
+    <string name="lid_map10_plastic">"Kompozyt MAP10 z pokrywką"</string>
+    <string name="keys_database_is_damaged_contact_admin">"Określona baza kluczy szyfrujących jest uszkodzona. Skontaktuj się z administratorem."</string>
+    <string name="enter_nfc_key">"Podaj klucz NFC"</string>
+    <string name="enter_nfc2_password">"Podaj hasło NFC2"</string>
+    <string name="entered_characters">"Wprowadzone znaki:"</string>
+    <string name="no_nfc_key">"Brak klucza NFC"</string>
+    <string name="no_nfc2_password">"Brak hasła NFC2"</string>
+    <string name="check_internet_connection">"Sprawdź połączenie z internetem."</string>
+    <string name="dynamic">"Dynamiczne"</string>
+    <string name="dynamic_log">"Log dynamiczny"</string>
+    <string name="histogram">"Histogram"</string>
+    <string name="choosen_date_is_before_production_date">"Wybrany czas jest przed datą produkcji urządzenia!"</string>
+    <string name="source">"Źródło"</string>
+    <string name="command">"Komenda"</string>
+    <string name="flow">"Przepływ"</string>
+    <string name="month_volume">"Wskazanie wodomierza - początek miesiąca"</string>
 </resources>
