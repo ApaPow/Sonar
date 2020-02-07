@@ -18,7 +18,7 @@
     <string name="client_name">"Jméno zákazníka"</string>
     <string name="city">"velkoměsto"</string>
     <string name="postcode">"PSČ"</string>
-    <string name="mounted_watermeter_number"></string>
+    <string name="mounted_watermeter_number">"Připojené číslo vodoměru"</string>
     <string name="communication_module_number">"Číslo komunikačního modulu"</string>
     <string name="mounted_watermeter_reading">"Indikace namontovaného vodoměru (m³)"</string>
     <string name="q3_flow">"Průtok Q3 (m³/h)"</string>
@@ -28,7 +28,7 @@
     <string name="dismounted_watermeter_reading">"Indikace vodoměru (m³)"</string>
     <string name="operation_type">"Typ operace"</string>
     <string name="geographic_positions">"Zeměpisné souřadnice"</string>
-    <string name="installed_device"></string>
+    <string name="installed_device">"Probíhá instalace zařízení"</string>
     <string name="watermeter_type">"Typ vodoměru"</string>
     <string name="main_watermeter">"Hlavní metr"</string>
     <string name="subwatermeter">"Sumbmeter"</string>
@@ -58,7 +58,7 @@
     <string name="form_saved">"Formulář byl uložen"</string>
     <string name="form_save_error">"Formulář se nepodařilo uložit"</string>
     <string name="cannot_read_data_from_watermeter">"Informace o vodoměru nebylo možné načíst"</string>
-    <string name="installed_seals_number"></string>
+    <string name="installed_seals_number">"Počet namontovaných těsnění"</string>
     <string name="pictures">"fotografie"</string>
     <string name="error_leak">"unikání"</string>
     <string name="error_reverse_flow">"Zpětný průtok"</string>
@@ -86,10 +86,10 @@
     <string name="mode_normal">"normální"</string>
     <string name="mode_unknown">"neznámo"</string>
     <string name="change_mode">"Změňte režim"</string>
-    <string name="daily"></string>
+    <string name="daily">"denní"</string>
     <string name="monthly">"Měsíční objem"</string>
     <string name="events">"Události"</string>
-    <string name="client_data"></string>
+    <string name="client_data">"Údaje o zákaznících"</string>
     <string name="get_daily_data">"Stáhněte si denní data"</string>
     <string name="get_monthly_data">"Stáhněte si měsíční data"</string>
     <string name="get_events_log">"Stáhněte si protokol událostí"</string>
@@ -100,7 +100,7 @@
 postavte telefon do vodoměru"</string>
     <string name="no_data_from_nfc">"Žádná data z NFC"</string>
     <string name="device_info">"tableta"</string>
-    <string name="history"></string>
+    <string name="history">"příběh"</string>
     <string name="january">"Leden"</string>
     <string name="february">"Únor"</string>
     <string name="march">"Březen"</string>
@@ -117,7 +117,7 @@ postavte telefon do vodoměru"</string>
     <string name="settings">"Nastavení"</string>
     <string name="calibration">"kalibrace"</string>
     <string name="volume_reset">"Reset displeje"</string>
-    <string name="installation"></string>
+    <string name="installation">"Montáž"</string>
     <string name="exchange">"výměna"</string>
     <string name="baan_number">"BAAN"</string>
     <string name="implementation">"poprava"</string>
@@ -138,7 +138,7 @@ postavte telefon do vodoměru"</string>
     <string name="reverse_flow_m3">"Zpětný tok (m³)"</string>
     <string name="change">"změna"</string>
     <string name="watermeter_date_and_time">"Čas a datum vodoměru"</string>
-    <string name="credits_usage"></string>
+    <string name="credits_usage">"Využití půjček"</string>
     <string name="total_limit">"Celkový limit:"</string>
     <string name="mode">"režim"</string>
     <string name="time">"čas"</string>
@@ -167,7 +167,7 @@ Jste si jisti"</string>
     <string name="credit">"úvěr"</string>
     <string name="forgot_password">"Zapomenuté heslo"</string>
     <string name="use_fingerprint_to_login">"Přihlášení pomocí otisků prstů"</string>
-    <string name="diary"></string>
+    <string name="diary">"denní"</string>
     <string name="watermeter_reading_m3">"Displej vodoměru (m³)"</string>
     <string name="watermeter_reading_l">"Displej vodoměru (L)"</string>
     <string name="option_not_available">"Tato možnost není k dispozici pro vodoměry TA1"</string>
@@ -219,9 +219,9 @@ zařízení"</string>
     <string name="sent_messages">"Odeslané zprávy"</string>
     <string name="communication_credits">"Komunikační půjčky"</string>
     <string name="listening_credits">"Půjčky na poslech"</string>
-    <string name="na_serial_number"></string>
+    <string name="na_serial_number">"Sériové číslo modulu"</string>
     <string name="summer_time">"Letní čas"</string>
-    <string name="timezone_shift"></string>
+    <string name="timezone_shift">"Časové pásmo offset"</string>
     <string name="turn_weight">"Hodnota rotace"</string>
     <string name="entered_volume">"Zadaný objem"</string>
     <string name="saving_measurements">"Úspora indikací"</string>
@@ -236,17 +236,17 @@ zařízení"</string>
     <string name="indicator_current_position">"Aktuální poloha ukazatele"</string>
     <string name="indicator_previous_position">"Předchozí pozice ukazatele"</string>
     <string name="current_temperature">"Aktuální teplota"</string>
-    <string name="work_in_range_minus15_10">"Provoz v rozsahu &lt;-15; 10&gt; ° C"</string>
-    <string name="work_in_range_10_15">"Provoz v rozsahu &lt;10; 15&gt; ° C"</string>
-    <string name="work_in_range_15_25">"Provoz v rozsahu &lt;15; 25&gt; ° C"</string>
-    <string name="work_in_range_25_30">"Provoz v rozsahu &lt;25; 30&gt; ° C"</string>
-    <string name="work_in_range_30_60">"Provoz v rozsahu &lt;30; 60&gt; ° C"</string>
-    <string name="work_in_range_minut15_60">"Provoz v rozsahu &lt;-15; 60&gt; ° C"</string>
+    <string name="work_in_range_minus15_10">"Provoz v rozsahu &lt;-15; 10&gt; °C"</string>
+    <string name="work_in_range_10_15">"Provoz v rozsahu &lt;10; 15&gt; °C"</string>
+    <string name="work_in_range_15_25">"Provoz v rozsahu &lt;15; 25&gt; °C"</string>
+    <string name="work_in_range_25_30">"Provoz v rozsahu &lt;25; 30&gt; °C"</string>
+    <string name="work_in_range_30_60">"Provoz v rozsahu &lt;30; 60&gt; °C"</string>
+    <string name="work_in_range_minut15_60">"Provoz v rozsahu &lt;-15; 60&gt; °C"</string>
     <string name="indicator_turns_count">"Počítadlo rotace ukazatele"</string>
     <string name="volume">"Objem"</string>
     <string name="detecting_events">"Detekce událostí"</string>
     <string name="battery_usage_threshold_exceeded">"Překročení kapacity baterie"</string>
-    <string name="detecting_events_turned_off"></string>
+    <string name="detecting_events_turned_off">"Detekce hlášení je vypnutá"</string>
     <string name="max_allowed_volume_in_day">"Maximální povolený objem během dne"</string>
     <string name="max_allowed_volume_in_days">"Max. povolené hlasitosti během stanovených dní mezipřistání"</string>
     <string name="number_of_stop_days">"Počet dnů bez pohybu"</string>
@@ -293,14 +293,14 @@ zařízení"</string>
     <string name="app_has_been_downloaded_starting_update">"Aplikace byla stažena. Zahajte instalaci."</string>
     <string name="turned_on">"povoleno"</string>
     <string name="turned_off">"invalidní"</string>
-    <string name="account_settings"></string>
+    <string name="account_settings">"Nastavení účtu"</string>
     <string name="password_change">"Změna hesla"</string>
     <string name="logging_to_application">"Přihlaste se k aplikaci"</string>
     <string name="logging_using_fingerprint">"Přihlaste se svým otiskem prstu"</string>
     <string name="server_address">"Adresa serveru"</string>
     <string name="server_address_hint">"Adresa serveru (žádná výchozí hodnota)"</string>
     <string name="restore_default_address">"Obnovit výchozí adresu"</string>
-    <string name="app_settings"></string>
+    <string name="app_settings">"Nastavení aplikace"</string>
     <string name="app_sounds">"Zvuky aplikace"</string>
     <string name="sound_notifications_during_read_and_write_operations">"Zvuková signalizace při čtení a zápisu dat z vodoměrů"</string>
     <string name="google_geocode_api_key">"Klíč geokódování služby Google"</string>
@@ -439,13 +439,9 @@ Informace o zařízení:
     <string name="calibrational">"kalibrace"</string>
     <string name="modifying_logging_limit">"Limit modifikace přihlášení"</string>
     <string name="watermeter_credits_info">"Předpovídané hodnoty jsou uvedeny pro vodoměry ve verzi TA1-TA3. Aktuální hodnoty jsou uvedeny pro verzi TA4."</string>
-    <string name="length_in_marks">"délka% d znaků"</string>
-    <string name="device_access_password"></string>
     <string name="wrong_password_length">"Zadáno neplatné heslo"</string>
     <string name="password_has_been_added">"Heslo bylo přidáno"</string>
     <string name="password_has_not_been_added">"Nepodařilo se přidat heslo"</string>
-    <string name="entering_password">"Zadání hesla"</string>
-    <string name="no_password_required_to_read_data_from_device_enter_password_to_continue"></string>
     <string name="daily_log_mode1_description">"- datum
 - indikace vodoměru
 - zadní objem
@@ -537,4 +533,24 @@ začátek měsíce (m³)"</string>
     <string name="text_new">"nový"</string>
     <string name="existing">"existující"</string>
     <string name="number_of_added_keys">"Počet přidaných klíčů"</string>
+    <string name="lid_brass">"Mosaz s víkem"</string>
+    <string name="lid_plastic">"Kompozitní s víkem"</string>
+    <string name="lid_map10_brass">"Mosaz MAP10 s víkem"</string>
+    <string name="lid_map10_plastic">"Kompozitní MAP10 s víkem"</string>
+    <string name="keys_database_is_damaged_contact_admin">"Zadaná databáze šifrovacích klíčů je poškozená. Obraťte se na správce."</string>
+    <string name="enter_nfc_key">"Zadejte klíč NFC"</string>
+    <string name="enter_nfc2_password">"Heslo pro přístup k zařízení"</string>
+    <string name="entered_characters">"Zadané znaky:"</string>
+    <string name="no_nfc_key">"Žádný klíč NFC"</string>
+    <string name="no_nfc2_password">"Žádné heslo NFC2"</string>
+    <string name="check_internet_connection">"Zkontrolujte připojení k internetu."</string>
+    <string name="dynamic">"Dynamický"</string>
+    <string name="dynamic_log">"Dynamický protokol"</string>
+    <string name="histogram">"Histogram"</string>
+    <string name="choosen_date_is_before_production_date">"Zvolený čas je před datem výroby zařízení!"</string>
+    <string name="source">"Zdroj"</string>
+    <string name="command">"Příkaz"</string>
+    <string name="flow">"Průtok"</string>
+    <string name="month_volume">"
+Indikace vodoměru - začátek měsíce"</string>
 </resources>
