@@ -18,7 +18,7 @@
     <string name="client_name">"Kundenavn"</string>
     <string name="city">"by"</string>
     <string name="postcode">"Postnummer"</string>
-    <string name="mounted_watermeter_number"></string>
+    <string name="mounted_watermeter_number">"vandmåler S / N"</string>
     <string name="communication_module_number">"Kommunikationsmodulnummer"</string>
     <string name="mounted_watermeter_reading">"Angivelse af den vandmåler (m³)"</string>
     <string name="q3_flow">"Q3 flow (m³/h)"</string>
@@ -28,7 +28,7 @@
     <string name="dismounted_watermeter_reading">"Angivelse af den vandmåler (m³)"</string>
     <string name="operation_type">"Betjeningstype"</string>
     <string name="geographic_positions">"Geografiske koordinater"</string>
-    <string name="installed_device"></string>
+    <string name="installed_device">"Type enhed"</string>
     <string name="watermeter_type">"Type vandmåler"</string>
     <string name="main_watermeter">"Hovedvandmåler"</string>
     <string name="subwatermeter">"Sub-fakturering"</string>
@@ -58,7 +58,7 @@
     <string name="form_saved">"Formularen er gemt"</string>
     <string name="form_save_error">"Kunne ikke gemme formularen"</string>
     <string name="cannot_read_data_from_watermeter">"Oplysningerne om vandmåleren kunne ikke hentes"</string>
-    <string name="installed_seals_number"></string>
+    <string name="installed_seals_number">"Sæler"</string>
     <string name="pictures">"Billeder"</string>
     <string name="error_leak">"lækage"</string>
     <string name="error_reverse_flow">"Omvendt flow"</string>
@@ -86,10 +86,10 @@
     <string name="mode_normal">"normal"</string>
     <string name="mode_unknown">"ukendt"</string>
     <string name="change_mode">"Skift tilstand"</string>
-    <string name="daily"></string>
+    <string name="daily">"registre"</string>
     <string name="monthly">"månedligt"</string>
     <string name="events">"begivenheder"</string>
-    <string name="client_data"></string>
+    <string name="client_data">"Punkt placering"</string>
     <string name="get_daily_data">"Download daglige data"</string>
     <string name="get_monthly_data">"Download månedlige data"</string>
     <string name="get_events_log">"Download hændelseslog"</string>
@@ -100,7 +100,7 @@
 sæt telefonen til vandmåleren"</string>
     <string name="no_data_from_nfc">"Ingen data fra NFC"</string>
     <string name="device_info">"tablet"</string>
-    <string name="history"></string>
+    <string name="history">"registre "</string>
     <string name="january">"januar"</string>
     <string name="february">"februar"</string>
     <string name="march">"marts"</string>
@@ -117,7 +117,7 @@ sæt telefonen til vandmåleren"</string>
     <string name="settings">"indstillinger"</string>
     <string name="calibration">"Kalibrering"</string>
     <string name="volume_reset">"Vis nulstilling"</string>
-    <string name="installation"></string>
+    <string name="installation">"Service"</string>
     <string name="exchange">"udveksling"</string>
     <string name="baan_number">"BAAN"</string>
     <string name="implementation">"udførelse"</string>
@@ -138,7 +138,7 @@ sæt telefonen til vandmåleren"</string>
     <string name="reverse_flow_m3">"Omvendt flow (m³)"</string>
     <string name="change">"Skift"</string>
     <string name="watermeter_date_and_time">"Vandmålerens tid og dato"</string>
-    <string name="credits_usage"></string>
+    <string name="credits_usage">"credits"</string>
     <string name="total_limit">"Samlet grænse:"</string>
     <string name="mode">"tilstand"</string>
     <string name="time">"tid"</string>
@@ -167,7 +167,7 @@ Er du sikker"</string>
     <string name="credit">"kredit"</string>
     <string name="forgot_password">"Glemt adgangskode"</string>
     <string name="use_fingerprint_to_login">"Login via fingeraftryk"</string>
-    <string name="diary"></string>
+    <string name="diary">"Logger"</string>
     <string name="watermeter_reading_m3">"Visning af vandmåler (m³)"</string>
     <string name="watermeter_reading_l">"Vandmåler display (L)"</string>
     <string name="option_not_available">"Indstillingen er ikke tilgængelig for TA1-vandmålere"</string>
@@ -219,9 +219,9 @@ udstyr"</string>
     <string name="sent_messages">"Sendte beskeder"</string>
     <string name="communication_credits">"Kommunikationslån"</string>
     <string name="listening_credits">"Lyt-i-lån"</string>
-    <string name="na_serial_number"></string>
+    <string name="na_serial_number">"Modul S / N"</string>
     <string name="summer_time">"Sommertid"</string>
-    <string name="timezone_shift"></string>
+    <string name="timezone_shift">"Tidszone"</string>
     <string name="turn_weight">"Rotationsvægt"</string>
     <string name="entered_volume">"Den indtastede lydstyrke"</string>
     <string name="saving_measurements">"Husker indikationer"</string>
@@ -236,17 +236,17 @@ udstyr"</string>
     <string name="indicator_current_position">"Aktuel markørposition"</string>
     <string name="indicator_previous_position">"Forrige tipposition"</string>
     <string name="current_temperature">"Nuværende temperatur"</string>
-    <string name="work_in_range_minus15_10"></string>
-    <string name="work_in_range_10_15"></string>
-    <string name="work_in_range_15_25"></string>
-    <string name="work_in_range_25_30"></string>
-    <string name="work_in_range_30_60"></string>
-    <string name="work_in_range_minut15_60"></string>
+    <string name="work_in_range_minus15_10">"Betjening i området &lt;-15; 10&gt; °C"</string>
+    <string name="work_in_range_10_15">"Betjening i området &lt;10; 15&gt; °C"</string>
+    <string name="work_in_range_15_25">"Betjening i området &lt;15; 25&gt; °C"</string>
+    <string name="work_in_range_25_30">"Betjening i området &lt;25; 30&gt; °C"</string>
+    <string name="work_in_range_30_60">"Betjening i området &lt;30; 60&gt; °C"</string>
+    <string name="work_in_range_minut15_60">"Betjening i alderen &lt;-15; 60&gt; °C"</string>
     <string name="indicator_turns_count">"Antal pointer-omdrejninger"</string>
     <string name="volume">"volumen"</string>
     <string name="detecting_events">"Begivenhedsregistrering"</string>
     <string name="battery_usage_threshold_exceeded">"Tærsklen for batteriforbrug overskredet"</string>
-    <string name="detecting_events_turned_off"></string>
+    <string name="detecting_events_turned_off">"Begivenhedsregistrering deaktiveret"</string>
     <string name="max_allowed_volume_in_day">"Maksimalt tilladt volumen i løbet af dagen"</string>
     <string name="max_allowed_volume_in_days">"Maksimalt tilladt volumen i et givet antal parkeringsdage"</string>
     <string name="number_of_stop_days">"Antal parkeringsdage"</string>
@@ -293,14 +293,14 @@ udstyr"</string>
     <string name="app_has_been_downloaded_starting_update">"Programmet er downloadet. Begynd installationen."</string>
     <string name="turned_on">"aktiveret"</string>
     <string name="turned_off">"handicappet"</string>
-    <string name="account_settings"></string>
+    <string name="account_settings">"Konto"</string>
     <string name="password_change">"Ændring af adgangskode"</string>
     <string name="logging_to_application">"Log ind på applikationen"</string>
     <string name="logging_using_fingerprint">"Log ind med dit fingeraftryk"</string>
     <string name="server_address">"Server adresse"</string>
     <string name="server_address_hint">"Serveradresse (ingen standard)"</string>
     <string name="restore_default_address">"Gendan standardadresse"</string>
-    <string name="app_settings"></string>
+    <string name="app_settings">"Indstillinger"</string>
     <string name="app_sounds">"Applikation lyder"</string>
     <string name="sound_notifications_during_read_and_write_operations">"Lydsignaler, når du læser og skriver data fra vandmålere"</string>
     <string name="google_geocode_api_key">"Google-kode for geokodning"</string>
@@ -439,13 +439,9 @@ Enhedsoplysninger:
     <string name="calibrational">"kalibrering"</string>
     <string name="modifying_logging_limit">"Login-ændringsgrænse"</string>
     <string name="watermeter_credits_info">"Forudsagte værdier præsenteres for vandmålere i versionerne TA1-TA3. Faktiske værdier præsenteres for TA4-versionen."</string>
-    <string name="length_in_marks">"længde% d tegn"</string>
-    <string name="device_access_password"></string>
     <string name="wrong_password_length">"Der er indtastet ugyldig adgangskode"</string>
     <string name="password_has_been_added">"Adgangskode er tilføjet"</string>
     <string name="password_has_not_been_added">"Kunne ikke tilføje adgangskode"</string>
-    <string name="entering_password">"Indtastning af adgangskode"</string>
-    <string name="no_password_required_to_read_data_from_device_enter_password_to_continue"></string>
     <string name="daily_log_mode1_description">"- dato
 - vandmålerindikation
 - bagerste lydstyrke
@@ -537,4 +533,24 @@ månedens begyndelse (m³)"</string>
     <string name="text_new">"ny"</string>
     <string name="existing">"eksisterende"</string>
     <string name="number_of_added_keys">"Antal nøgler tilføjet"</string>
+    <string name="lid_brass">"Messing med låg"</string>
+    <string name="lid_plastic">"Sammensat med låg"</string>
+    <string name="lid_map10_brass">"Messing MAP10 med låg"</string>
+    <string name="lid_map10_plastic">"Komposit MAP10 med låg"</string>
+    <string name="keys_database_is_damaged_contact_admin">"Den specificerede databas med krypteringsnøgle er beskadiget. Kontakt med administrator."</string>
+    <string name="enter_nfc_key">"Indtast NFC-nøgle"</string>
+    <string name="enter_nfc2_password">"Indtast NFC2-adgangskode"</string>
+    <string name="entered_characters">"Indtastede tegn:"</string>
+    <string name="no_nfc_key">"Ingen NFC-nøgle"</string>
+    <string name="no_nfc2_password">"Ingen NFC2 adgangskode"</string>
+    <string name="check_internet_connection">"Tjek internetforbindelse."</string>
+    <string name="dynamic">"Dynamisk"</string>
+    <string name="dynamic_log">"Dynamisk log"</string>
+    <string name="histogram">"Histogram"</string>
+    <string name="choosen_date_is_before_production_date">"Det valgte tidspunkt er før enhedens fremstillingsdato!"</string>
+    <string name="source">"Kilde"</string>
+    <string name="command">"Kommando"</string>
+    <string name="flow">"Flyde"</string>
+    <string name="month_volume">"
+Vandmålerindikation - begyndelsen af måneden"</string>
 </resources>
