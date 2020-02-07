@@ -192,10 +192,10 @@
 
     <!-- Fuzzy -->
     <string name="change_mode">"Change mode"</string>
-    <string name="daily"></string>
+    <string name="daily">"Registers"</string>
     <string name="monthly">"Monthly"</string>
     <string name="events">"Events"</string>
-    <string name="client_data"></string>
+    <string name="client_data">"Point location"</string>
 
     <!-- Fuzzy -->
     <string name="get_daily_data">"Download daily data"</string>
@@ -222,7 +222,7 @@ place a phone on the water meter"</string>
 
     <!-- Fuzzy -->
     <string name="device_info">"Front plate"</string>
-    <string name="history"></string>
+    <string name="history">"Registers "</string>
     <string name="january">"January"</string>
     <string name="february">"February"</string>
     <string name="march">"March"</string>
@@ -245,7 +245,7 @@ place a phone on the water meter"</string>
 
     <!-- Fuzzy -->
     <string name="volume_reset">"Indications reset"</string>
-    <string name="installation"></string>
+    <string name="installation">"Service"</string>
     <string name="exchange">"Exchange"</string>
 
     <!-- Fuzzy -->
@@ -448,7 +448,7 @@ access error"</string>
     <string name="volume">"Volume"</string>
     <string name="detecting_events">"Event detection"</string>
     <string name="battery_usage_threshold_exceeded">"Battery usage threshold exceeded"</string>
-    <string name="detecting_events_turned_off"></string>
+    <string name="detecting_events_turned_off">"Event detection disabled"</string>
     <string name="max_allowed_volume_in_day">"Maximum allowed volume during the day"</string>
     <string name="max_allowed_volume_in_days">"Maximum allowed volume during defined number of standstill days"</string>
     <string name="number_of_stop_days">"Standstill days number"</string>
@@ -495,14 +495,14 @@ access error"</string>
     <string name="app_has_been_downloaded_starting_update">"The application has been downloaded. Begin installation."</string>
     <string name="turned_on">"Turned on"</string>
     <string name="turned_off">"Turned off"</string>
-    <string name="account_settings"></string>
+    <string name="account_settings">"Account"</string>
     <string name="password_change">"Change password"</string>
     <string name="logging_to_application">"Log in to application"</string>
     <string name="logging_using_fingerprint">"Log in with fingerprint"</string>
     <string name="server_address">"Server address"</string>
     <string name="server_address_hint">"Server address (none - default value)"</string>
     <string name="restore_default_address">"Restore default address"</string>
-    <string name="app_settings"></string>
+    <string name="app_settings">"Settings"</string>
     <string name="app_sounds">"Application sounds"</string>
     <string name="sound_notifications_during_read_and_write_operations">"Sound communication when reading from / writing to water meters"</string>
     <string name="google_geocode_api_key">"Google service geocoding key"</string>
@@ -642,13 +642,9 @@ Information about device:
     <string name="calibrational">"Calibration"</string>
     <string name="modifying_logging_limit">"Login modification limit"</string>
     <string name="watermeter_credits_info">"Predicted values are presented for water meters in versions TA1-TA3. Actual values are presented for TA4 version."</string>
-    <string name="length_in_marks">"length %d characters"</string>
-    <string name="device_access_password"></string>
     <string name="wrong_password_length">"Entered password has invalid length"</string>
     <string name="password_has_been_added">"Password has been added"</string>
     <string name="password_has_not_been_added">"Failed to add password"</string>
-    <string name="entering_password">"Password entry"</string>
-    <string name="no_password_required_to_read_data_from_device_enter_password_to_continue"></string>
     <string name="daily_log_mode1_description">"- date
 - water meter indication
 - reverse volume
@@ -740,4 +736,24 @@ beginning of the month (m³)"</string>
     <string name="text_new">"new"</string>
     <string name="existing">"existing"</string>
     <string name="number_of_added_keys">"Number of keys added"</string>
+    <string name="lid_brass">"Brass with lid"</string>
+    <string name="lid_plastic">"Composite with lid"</string>
+    <string name="lid_map10_brass">"Brass MAP10 with lid"</string>
+    <string name="lid_map10_plastic">"Composite MAP10 with lid"</string>
+    <string name="keys_database_is_damaged_contact_admin">"Specified encryption key database is corrupted. Contact with administrator."</string>
+    <string name="enter_nfc_key">"Enter NFC key"</string>
+    <string name="enter_nfc2_password">"Enter NFC2 password"</string>
+    <string name="entered_characters">"Entered characters:"</string>
+    <string name="no_nfc_key">"No NFC key"</string>
+    <string name="no_nfc2_password">"No NFC2 password"</string>
+    <string name="check_internet_connection">"Check internet connection."</string>
+    <string name="dynamic">"Dynamic"</string>
+    <string name="dynamic_log">"Dynamic log"</string>
+    <string name="histogram">"Histogram"</string>
+    <string name="choosen_date_is_before_production_date">"Selected time is before device manufacturing date!"</string>
+    <string name="source">"Source"</string>
+    <string name="command">"Command"</string>
+    <string name="flow">"Flow"</string>
+    <string name="month_volume">"
+Water meter indication - beginning of the month"</string>
 </resources>
