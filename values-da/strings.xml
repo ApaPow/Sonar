@@ -553,4 +553,28 @@ månedens begyndelse (m³)"</string>
     <string name="flow">"Flyde"</string>
     <string name="month_volume">"
 Vandmålerindikation - begyndelsen af måneden"</string>
+    <string name="key_manager_list">"Liste"</string>
+    <string name="key_manager_import">"Importere"</string>
+    <string name="key_manager_installed_nfc_keys">"Installerede NFC nøgler"</string>
+    <string name="key_manager_found_nfc_keys">"NFC-nøgler fundet"</string>
+    <string name="key_manager_no_keys">"Ingen krypteringsnøgler"</string>
+    <string name="key_manager_import_keys">"Tasterimport"</string>
+    <string name="key_manager_keys_from_where">"Du kan importere nøgler fra en .csv-fil, der er gemt i telefonens hukommelse."</string>
+    <string name="key_manager_keys_preparation">"Du kan få fil med nøgler fra distributøren eller forberede den selv."</string>
+    <string name="key_manager_import_from_csv">"Indlæs fra .csv-fil"</string>
+    <string name="key_manager_search_placeholder">"Søg..."</string>
+    <string name="key_manager_scan_code">"Scan vandmåler"</string>
+    <string name="bluetooth">"Bluetooth"</string>
+    <string name="bluetooth_devices">"Bluetooth-enheder"</string>
+    <string name="available_devices">"Tilgængelige enheder"</string>
+    <string name="bluetooth_is_turned_off_want_to_turn_on">"Bluetooth er slået fra. Vil du tænde det?"</string>
+    <string name="cannot_start_scanning">"Kunne ikke starte enhedssøgning"</string>
+    <string name="localization_services">"Placeringstjenester"</string>
+    <string name="localization_services_are_turned_off_want_to_turn_on">"Placeringstjenester er slået fra. Vil du tænde dem?"</string>
+    <string name="connected">"forbundet"</string>
+    <string name="disconnected">"afbrudt"</string>
+    <string name="connecting">"Forbindelse..."</string>
+    <string name="cannot_connect_with_device">"Kunne ikke oprette forbindelse til enheden"</string>
+    <string name="cannot_search_new_device">"Enheden kunne ikke findes"</string>
+    <string name="changing_into_transport_mode_is_impossible">"Skift til lagertilstand er ikke muligt"</string>
 </resources>
