@@ -100,7 +100,7 @@
 metti il telefono sul contatore dell'acqua"</string>
     <string name="no_data_from_nfc">"Nessun dato da NFC"</string>
     <string name="device_info">"informazioni sul dispositivo"</string>
-    <string name="history">"Historia"</string>
+    <string name="history">"Storia"</string>
     <string name="january">"Gennaio"</string>
     <string name="february">"Febbraio"</string>
     <string name="march">"Marzo"</string>
@@ -551,4 +551,28 @@ inizio del mese (m³)"</string>
     <string name="flow">"Portata"</string>
     <string name="month_volume">"
 Indicazione del contatore dell'acqua - inizio del mese"</string>
+    <string name="key_manager_list">"Elenco"</string>
+    <string name="key_manager_import">"Importare"</string>
+    <string name="key_manager_installed_nfc_keys">"Chiavi NFC installate"</string>
+    <string name="key_manager_found_nfc_keys">"Trovate chiavi NFC"</string>
+    <string name="key_manager_no_keys">"Nessuna chiave di crittografia"</string>
+    <string name="key_manager_import_keys">"Importazione chiavi"</string>
+    <string name="key_manager_keys_from_where">"È possibile importare le chiavi da un file .csv salvato nella memoria del telefono."</string>
+    <string name="key_manager_keys_preparation">"È possibile ottenere il file con le chiavi dal distributore o prepararlo da soli."</string>
+    <string name="key_manager_import_from_csv">"Carica dal file .csv"</string>
+    <string name="key_manager_search_placeholder">"Ricerca..."</string>
+    <string name="key_manager_scan_code">"Scansione contatore dell'acqua"</string>
+    <string name="bluetooth">"Bluetooth"</string>
+    <string name="bluetooth_devices">"Dispositivi Bluetooth"</string>
+    <string name="available_devices">"Dispositivi disponibili"</string>
+    <string name="bluetooth_is_turned_off_want_to_turn_on">"Il Bluetooth è disattivato. Vuoi accenderlo?"</string>
+    <string name="cannot_start_scanning">"Impossibile avviare la ricerca del dispositivo"</string>
+    <string name="localization_services">"Servizi di localizzazione"</string>
+    <string name="localization_services_are_turned_off_want_to_turn_on">"I servizi di localizzazione sono disattivati. Vuoi accenderli?"</string>
+    <string name="connected">"Collegato"</string>
+    <string name="disconnected">"Disconnected"</string>
+    <string name="connecting">"Connessione..."</string>
+    <string name="cannot_connect_with_device">"Impossibile connettersi al dispositivo"</string>
+    <string name="cannot_search_new_device">"Impossibile trovare il dispositivo"</string>
+    <string name="changing_into_transport_mode_is_impossible">"Il passaggio alla modalità di archiviazione non è possibile"</string>
 </resources>
