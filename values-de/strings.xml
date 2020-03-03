@@ -564,4 +564,28 @@ Monatsanfang (m³)"</string>
     <string name="flow">"Durchströmung"</string>
     <string name="month_volume">"
 Wasserzähleranzeige - Anfang des Monats"</string>
+    <string name="key_manager_list">"Aufführen"</string>
+    <string name="key_manager_import">"Importieren"</string>
+    <string name="key_manager_installed_nfc_keys">"Installierte NFC-Schlüssel"</string>
+    <string name="key_manager_found_nfc_keys">"NFC-Schlüssel gefunden"</string>
+    <string name="key_manager_no_keys">"Keine Verschlüsselungsschlüssel"</string>
+    <string name="key_manager_import_keys">"Schlüssel importieren"</string>
+    <string name="key_manager_keys_from_where">"Sie können Schlüssel aus einer CSV-Datei importieren, die im Speicher des Telefons gespeichert ist."</string>
+    <string name="key_manager_keys_preparation">"Sie können eine Datei mit Schlüsseln vom Händler erhalten oder selbst vorbereiten."</string>
+    <string name="key_manager_import_from_csv">"Aus CSV-Datei laden"</string>
+    <string name="key_manager_search_placeholder">"Suche..."</string>
+    <string name="key_manager_scan_code">"Wasserzähler scannen"</string>
+    <string name="bluetooth">"Bluetooth"</string>
+    <string name="bluetooth_devices">"Bluetooth-Geräte"</string>
+    <string name="available_devices">"Verfügbare Geräte"</string>
+    <string name="bluetooth_is_turned_off_want_to_turn_on">"Bluetooth ist ausgeschaltet. Möchten Sie es einschalten?"</string>
+    <string name="cannot_start_scanning">"Gerätesuche konnte nicht gestartet werden"</string>
+    <string name="localization_services">"Standortdienste"</string>
+    <string name="localization_services_are_turned_off_want_to_turn_on">"Ortungsdienste sind deaktiviert. Möchten Sie sie einschalten?"</string>
+    <string name="connected">"In Verbindung gebracht"</string>
+    <string name="disconnected">"Getrennt"</string>
+    <string name="connecting">"Verbindung..."</string>
+    <string name="cannot_connect_with_device">"Verbindung zum Gerät konnte nicht hergestellt werden"</string>
+    <string name="cannot_search_new_device">"Gerät konnte nicht gefunden werden"</string>
+    <string name="changing_into_transport_mode_is_impossible">"Ein Wechsel in den Speichermodus ist nicht möglich"</string>
 </resources>
