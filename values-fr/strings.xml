@@ -575,4 +575,28 @@ début du mois (m³)"</string>
     <string name="flow">"Couler"</string>
     <string name="month_volume">"
 Indication du compteur d'eau - début du mois"</string>
+    <string name="key_manager_list">"liste"</string>
+    <string name="key_manager_import">"Importation"</string>
+    <string name="key_manager_installed_nfc_keys">"Clés NFC installées"</string>
+    <string name="key_manager_found_nfc_keys">"Clés NFC trouvées"</string>
+    <string name="key_manager_no_keys">"Pas de clés de cryptage"</string>
+    <string name="key_manager_import_keys">"Importation de clés"</string>
+    <string name="key_manager_keys_from_where">"Vous pouvez importer des clés à partir d'un fichier .csv enregistré dans la mémoire du téléphone."</string>
+    <string name="key_manager_keys_preparation">"Vous pouvez obtenir le fichier avec les clés du distributeur ou le préparer vous-même."</string>
+    <string name="key_manager_import_from_csv">"Charger à partir du fichier .csv"</string>
+    <string name="key_manager_search_placeholder">"Chercher..."</string>
+    <string name="key_manager_scan_code">"Scanner le compteur d'eau"</string>
+    <string name="bluetooth">"Bluetooth"</string>
+    <string name="bluetooth_devices">"Appareils Bluetooth"</string>
+    <string name="available_devices">"Appareils disponibles"</string>
+    <string name="bluetooth_is_turned_off_want_to_turn_on">"Le Bluetooth est désactivé. Voulez-vous l'activer?"</string>
+    <string name="cannot_start_scanning">"Impossible de démarrer la recherche d'appareils"</string>
+    <string name="localization_services">"Services de location"</string>
+    <string name="localization_services_are_turned_off_want_to_turn_on">"Les services de localisation sont désactivés. Voulez-vous les activer?"</string>
+    <string name="connected">"Connecté"</string>
+    <string name="disconnected">"Débranché"</string>
+    <string name="connecting">"Lien..."</string>
+    <string name="cannot_connect_with_device">"Impossible de se connecter à l'appareil"</string>
+    <string name="cannot_search_new_device">"Impossible de trouver le périphérique"</string>
+    <string name="changing_into_transport_mode_is_impossible">"Le passage en mode stockage n'est pas possible"</string>
 </resources>
