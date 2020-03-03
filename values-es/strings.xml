@@ -18,20 +18,20 @@
     <string name="client_name">"Nombre del cliente"</string>
     <string name="city">"Ciudad"</string>
     <string name="postcode">"código postal"</string>
-    <string name="mounted_watermeter_number">"El número del medidor de agua instalado."</string>
+    <string name="mounted_watermeter_number">"Número de serie del contador de agua instalado."</string>
     <string name="communication_module_number">"Número del módulo de comunicación."</string>
-    <string name="mounted_watermeter_reading">"Indicación del contador de agua (m³)"</string>
+    <string name="mounted_watermeter_reading">"Lectura del contador de agua (m³)"</string>
 
     <!-- Fuzzy -->
     <string name="q3_flow">"Flujo Q3 (m³/h)"</string>
     <string name="diameter">"Diámetro"</string>
     <string name="watermeter_length">"Longitud del contador de agua (mm)"</string>
-    <string name="dismounted_watermeter_number">"El número del contador de agua"</string>
-    <string name="dismounted_watermeter_reading">"Indicación del contador de agua (m³)"</string>
+    <string name="dismounted_watermeter_number">"Número de serie del contador de agua"</string>
+    <string name="dismounted_watermeter_reading">"Lectura del contador de agua (m³)"</string>
     <string name="operation_type">"Tipo de operación"</string>
     <string name="geographic_positions">"Coordenadas geograficas"</string>
     <string name="installed_device">"Dispositivo instalado"</string>
-    <string name="watermeter_type">"Tipo de medidor de agua"</string>
+    <string name="watermeter_type">"Tipo de contador de agua"</string>
     <string name="main_watermeter">"Medidor principal"</string>
     <string name="subwatermeter">"Sub metro"</string>
     <string name="installation_author">"Contratista de montaje"</string>
@@ -564,4 +564,28 @@ principio del mes (m³)"</string>
     <string name="flow">"Flujo"</string>
     <string name="month_volume">"
 Indicación del medidor de agua - comienzo del mes"</string>
+    <string name="key_manager_list">"Lista"</string>
+    <string name="key_manager_import">"Importar"</string>
+    <string name="key_manager_installed_nfc_keys">"Claves NFC instaladas"</string>
+    <string name="key_manager_found_nfc_keys">"Llaves NFC encontradas"</string>
+    <string name="key_manager_no_keys">"Sin claves de cifrado"</string>
+    <string name="key_manager_import_keys">"Importación de llaves"</string>
+    <string name="key_manager_keys_from_where">"Puede importar claves desde un archivo .csv guardado en la memoria del teléfono."</string>
+    <string name="key_manager_keys_preparation">"Puede obtener el archivo con las claves del distribuidor o prepararlo usted mismo."</string>
+    <string name="key_manager_import_from_csv">"Cargar desde archivo .csv"</string>
+    <string name="key_manager_search_placeholder">"Buscar..."</string>
+    <string name="key_manager_scan_code">"Escanear medidor de agua"</string>
+    <string name="bluetooth">"Bluetooth"</string>
+    <string name="bluetooth_devices">"Dispositivos Bluetooth"</string>
+    <string name="available_devices">"Dispositivos disponibles"</string>
+    <string name="bluetooth_is_turned_off_want_to_turn_on">"Bluetooth está apagado ¿Quieres encenderlo?"</string>
+    <string name="cannot_start_scanning">"Error al iniciar la búsqueda del dispositivo"</string>
+    <string name="localization_services">"Servicios de localización"</string>
+    <string name="localization_services_are_turned_off_want_to_turn_on">"Los servicios de ubicación están desactivados. ¿Quieres encenderlos?"</string>
+    <string name="connected">"Conectado"</string>
+    <string name="disconnected">"Desconectado"</string>
+    <string name="connecting">"Conexión..."</string>
+    <string name="cannot_connect_with_device">"No se pudo conectar al dispositivo"</string>
+    <string name="cannot_search_new_device">"No se pudo encontrar el dispositivo"</string>
+    <string name="changing_into_transport_mode_is_impossible">"No es posible cambiar al modo de almacenamiento"</string>
 </resources>
