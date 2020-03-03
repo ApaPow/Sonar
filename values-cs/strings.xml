@@ -553,4 +553,28 @@ začátek měsíce (m³)"</string>
     <string name="flow">"Průtok"</string>
     <string name="month_volume">"
 Indikace vodoměru - začátek měsíce"</string>
+    <string name="key_manager_list">"seznam"</string>
+    <string name="key_manager_import">"dovoz"</string>
+    <string name="key_manager_installed_nfc_keys">"Nainstalované klíče NFC"</string>
+    <string name="key_manager_found_nfc_keys">"Nalezeny klíče NFC"</string>
+    <string name="key_manager_no_keys">"Žádné šifrovací klíče"</string>
+    <string name="key_manager_import_keys">"Import klíče"</string>
+    <string name="key_manager_keys_from_where">"Můžete importovat klíče ze souboru CSV uloženého v paměti telefonu."</string>
+    <string name="key_manager_keys_preparation">"Soubor klíčů můžete získat od distributora nebo ho sami připravit."</string>
+    <string name="key_manager_import_from_csv">"Načíst ze souboru CSV"</string>
+    <string name="key_manager_search_placeholder">"Hledat ..."</string>
+    <string name="key_manager_scan_code">"Naskenujte vodoměr"</string>
+    <string name="bluetooth">"Bluetooth"</string>
+    <string name="bluetooth_devices">"Zařízení Bluetooth"</string>
+    <string name="available_devices">"Dostupná zařízení"</string>
+    <string name="bluetooth_is_turned_off_want_to_turn_on">"Bluetooth je vypnutý. Chcete ji zapnout?"</string>
+    <string name="cannot_start_scanning">"Vyhledávání zařízení se nepodařilo spustit"</string>
+    <string name="localization_services">"Služby určování polohy"</string>
+    <string name="localization_services_are_turned_off_want_to_turn_on">"Služby určování polohy jsou vypnuty. Chcete je zapnout?"</string>
+    <string name="connected">"kombinovaný"</string>
+    <string name="disconnected">"odpojen"</string>
+    <string name="connecting">"Připojování ..."</string>
+    <string name="cannot_connect_with_device">"Nelze se připojit k zařízení"</string>
+    <string name="cannot_search_new_device">"Zařízení se nepodařilo najít"</string>
+    <string name="changing_into_transport_mode_is_impossible">"Přepnutí do režimu úložiště není možné"</string>
 </resources>
