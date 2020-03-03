@@ -756,4 +756,28 @@ beginning of the month (m³)"</string>
     <string name="flow">"Flow"</string>
     <string name="month_volume">"
 Water meter indication - beginning of the month"</string>
+    <string name="key_manager_list">"List"</string>
+    <string name="key_manager_import">"Import"</string>
+    <string name="key_manager_installed_nfc_keys">"Installed NFC keys"</string>
+    <string name="key_manager_found_nfc_keys">"NFC keys found"</string>
+    <string name="key_manager_no_keys">"No encryption keys"</string>
+    <string name="key_manager_import_keys">"Keys import"</string>
+    <string name="key_manager_keys_from_where">"You can import keys from a .csv file saved in the phone's memory."</string>
+    <string name="key_manager_keys_preparation">"You can obtain file with keys from distributor or prepare it yourself."</string>
+    <string name="key_manager_import_from_csv">"Load from .csv file"</string>
+    <string name="key_manager_search_placeholder">"Search..."</string>
+    <string name="key_manager_scan_code">"Scan water meter"</string>
+    <string name="bluetooth">"Bluetooth"</string>
+    <string name="bluetooth_devices">"Bluetooth devices"</string>
+    <string name="available_devices">"Available devices"</string>
+    <string name="bluetooth_is_turned_off_want_to_turn_on">"Bluetooth is turned off. Do you want to turn it on?"</string>
+    <string name="cannot_start_scanning">"Failed to start device search"</string>
+    <string name="localization_services">"Location services"</string>
+    <string name="localization_services_are_turned_off_want_to_turn_on">"Location services are turned off. Do you want to turn them on?"</string>
+    <string name="connected">"Connected"</string>
+    <string name="disconnected">"Disconnected"</string>
+    <string name="connecting">"Connection..."</string>
+    <string name="cannot_connect_with_device">"Could not connect to device"</string>
+    <string name="cannot_search_new_device">"Could not find device"</string>
+    <string name="changing_into_transport_mode_is_impossible">"Switching to storage mode is not possible"</string>
 </resources>
