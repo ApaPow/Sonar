@@ -588,4 +588,27 @@ Indicación del medidor de agua - comienzo del mes"</string>
     <string name="cannot_connect_with_device">"No se pudo conectar al dispositivo"</string>
     <string name="cannot_search_new_device">"No se pudo encontrar el dispositivo"</string>
     <string name="changing_into_transport_mode_is_impossible">"No es posible cambiar al modo de almacenamiento"</string>
+    <string name="change_of_mode_and_or_interval">"Cambio del modo de registro dinámico y / o intervalo"</string>
+    <string name="change_of_next_log_save_time">"Cambiar la hora de la siguiente entrada de registro dinámico"</string>
+    <string name="modifications">"Modificaciones"</string>
+    <string name="time_cannot_be_later_than">"El tiempo establecido no puede ser posterior a"</string>
+    <string name="time_since_set_to">"Hora \ \"De \\" establecida en"</string>
+    <string name="since">"Desde"</string>
+    <string name="time_cannot_be_earlier_than">"El tiempo establecido no puede ser anterior a"</string>
+    <string name="time_to_set_to">"\ \"Para \\" hora establecida en"</string>
+    <string name="to">"A"</string>
+    <string name="usage_presentation_in_time">"Presentación de consumo en periodo"</string>
+    <string name="serial_number">"Número de serie"</string>
+    <string name="key1">"Clave NFC1"</string>
+    <string name="key2">"Clave NFC2"</string>
+    <string name="key3">"Clave NFC3"</string>
+    <string name="initialization_vector">"Vector iniciador"</string>
+    <string name="maintenance_key">"Clave de mantenimiento"</string>
+    <string name="master_key">"Llave maestra"</string>
+    <string name="open_csv_template">"Abrir archivo de plantilla"</string>
+    <string name="get_csv_template_file">"Descargar archivo de plantilla .csv"</string>
+    <string name="to_prepare_file">"Para preparar un archivo que contenga claves usted mismo:"</string>
+    <string name="click_button_file_will_be_saved">"1. Haga clic en el botón \ 'Descargar plantilla .csv \': el archivo se guardará en la memoria del dispositivo en la carpeta de la aplicación Sonar,"</string>
+    <string name="modify_file_add_serial_numbers_and_keys">"2. Modifique el archivo de plantilla: agregue adecuadamente los números de serie y las claves de cifrado de los dispositivos. Cada línea debe contener el número de serie y la clave NFC separados por una coma. Las claves se almacenan en forma hexadecimal: un byte describe dos caracteres,"</string>
+    <string name="click_and_select_file_to_import">"3. Haga clic en el botón \ 'Importar archivo .csv \' y seleccione el archivo de clave."</string>
 </resources>
