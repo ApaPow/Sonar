@@ -585,4 +585,27 @@
     <string name="cannot_connect_with_device">"Не удалось подключиться к устройству"</string>
     <string name="cannot_search_new_device">"Не удалось найти устройство"</string>
     <string name="changing_into_transport_mode_is_impossible">"Переключение в режим хранения невозможно"</string>
+    <string name="change_of_mode_and_or_interval">"Изменение режима динамического журнала и/или интервала"</string>
+    <string name="change_of_next_log_save_time">"Изменить время следующей записи динамического журнала"</string>
+    <string name="modifications">"Изменения"</string>
+    <string name="time_cannot_be_later_than">"Время не может быть позже, чем"</string>
+    <string name="time_since_set_to">"Время \ \"От \\" установлено на"</string>
+    <string name="since">"От"</string>
+    <string name="time_cannot_be_earlier_than">"Установленное время не может быть раньше"</string>
+    <string name="time_to_set_to">"Время \\"До\\""</string>
+    <string name="to">"До"</string>
+    <string name="usage_presentation_in_time">"Представление потребления в период"</string>
+    <string name="serial_number">"Серийный номер"</string>
+    <string name="key1">"Ключ NFC1"</string>
+    <string name="key2">"Ключ NFC2"</string>
+    <string name="key3">"Ключ NFC3"</string>
+    <string name="initialization_vector">"Исходный вектор"</string>
+    <string name="maintenance_key">"Ключ обслуживания"</string>
+    <string name="master_key">"Мастер ключ"</string>
+    <string name="open_csv_template">"Открыть файл шаблона"</string>
+    <string name="get_csv_template_file">"Скачать файл шаблона .csv"</string>
+    <string name="to_prepare_file">"Чтобы подготовить файл, содержащий ключи самостоятельно:"</string>
+    <string name="click_button_file_will_be_saved">"1. Нажмите кнопку \'Скачать шаблон .csv\' - файл будет сохранен в памяти устройства в папке приложения Sonar,"</string>
+    <string name="modify_file_add_serial_numbers_and_keys">"2. Изменить файл шаблона - добавить соответствующие серийные номера и ключи шифрования устройств. Каждая строка должна содержать серийный номер и ключ NFC, разделенные запятой. Ключи хранятся в шестнадцатеричной форме - один байт описывает два символа,"</string>
+    <string name="click_and_select_file_to_import">"3. Нажмите кнопку \'Импорт файла .csv \' и выберите файл ключа."</string>
 </resources>
