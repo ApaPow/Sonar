@@ -588,4 +588,27 @@ Wasserzähleranzeige - Anfang des Monats"</string>
     <string name="cannot_connect_with_device">"Verbindung zum Gerät konnte nicht hergestellt werden"</string>
     <string name="cannot_search_new_device">"Gerät konnte nicht gefunden werden"</string>
     <string name="changing_into_transport_mode_is_impossible">"Ein Wechsel in den Speichermodus ist nicht möglich"</string>
+    <string name="change_of_mode_and_or_interval">"Änderung des dynamischen Protokollmodus und / oder des Intervalls"</string>
+    <string name="change_of_next_log_save_time">"Ändern Sie die Zeit des nächsten dynamischen Protokolleintrags"</string>
+    <string name="modifications">"Änderungen"</string>
+    <string name="time_cannot_be_later_than">"Die eingestellte Zeit kann nicht später als sein"</string>
+    <string name="time_since_set_to">"Zeit \"Von\" eingestellt auf"</string>
+    <string name="since">"Von"</string>
+    <string name="time_cannot_be_earlier_than">"Die eingestellte Zeit kann nicht früher als sein"</string>
+    <string name="time_to_set_to">"\"Bis\" Zeit eingestellt auf"</string>
+    <string name="to">"Zu"</string>
+    <string name="usage_presentation_in_time">"Darstellung des Verbrauchs in der Periode"</string>
+    <string name="serial_number">"Ordnungsnummer"</string>
+    <string name="key1">"NFC1-Schlüssel"</string>
+    <string name="key2">"NFC2-Schlüssel"</string>
+    <string name="key3">"NFC3-Schlüssel"</string>
+    <string name="initialization_vector">"Vektor initiieren"</string>
+    <string name="maintenance_key">"Wartungsschlüssel"</string>
+    <string name="master_key">"Hauptschlüssel"</string>
+    <string name="open_csv_template">"Vorlagendatei öffnen"</string>
+    <string name="get_csv_template_file">"Laden Sie die CSV-Vorlagendatei herunter"</string>
+    <string name="to_prepare_file">"So bereiten Sie eine Datei mit Schlüsseln selbst vor:"</string>
+    <string name="click_button_file_will_be_saved">"1. Klicken Sie auf die Schaltfläche \'CSV-Vorlage herunterladen\'. Die Datei wird im Speicher des Geräts im Sonar-Anwendungsordner gespeichert."</string>
+    <string name="modify_file_add_serial_numbers_and_keys">"2. Ändern Sie die Vorlagendatei - fügen Sie die entsprechenden Seriennummern und Verschlüsselungsschlüssel der Geräte hinzu. Jede Zeile sollte eine durch Komma getrennte Seriennummer und einen NFC-Schlüssel enthalten. Schlüssel werden in hexadezimaler Form gespeichert - ein Byte beschreibt zwei Zeichen,"</string>
+    <string name="click_and_select_file_to_import">"3. Klicken Sie auf die Schaltfläche \'CSV-Datei importieren\' und wählen Sie die Schlüsseldatei aus."</string>
 </resources>
