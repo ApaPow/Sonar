@@ -577,4 +577,27 @@ Indikace vodoměru - začátek měsíce"</string>
     <string name="cannot_connect_with_device">"Nelze se připojit k zařízení"</string>
     <string name="cannot_search_new_device">"Zařízení se nepodařilo najít"</string>
     <string name="changing_into_transport_mode_is_impossible">"Přepnutí do režimu úložiště není možné"</string>
+    <string name="change_of_mode_and_or_interval">"Změna režimu a / nebo intervalu dynamického protokolu"</string>
+    <string name="change_of_next_log_save_time">"Změnit čas další položky dynamického protokolu"</string>
+    <string name="modifications">"Modifikace"</string>
+    <string name="time_cannot_be_later_than">"Nastavený čas nesmí být později než"</string>
+    <string name="time_since_set_to">"Čas \ \"Od \\" nastaven na"</string>
+    <string name="since">"Z"</string>
+    <string name="time_cannot_be_earlier_than">"Nastavený čas nemůže být dříve než"</string>
+    <string name="time_to_set_to">"\ \"To \\" čas nastaven na"</string>
+    <string name="to">"Na"</string>
+    <string name="usage_presentation_in_time">"Prezentace spotřeby v období"</string>
+    <string name="serial_number">"Sériové číslo"</string>
+    <string name="key1">"Klíč NFC1"</string>
+    <string name="key2">"Klíč NFC2"</string>
+    <string name="key3">"Klíč NFC3"</string>
+    <string name="initialization_vector">"Iniciační vektor"</string>
+    <string name="maintenance_key">"Klíč údržby"</string>
+    <string name="master_key">"Hlavní klíč"</string>
+    <string name="open_csv_template">"Otevřete soubor šablony"</string>
+    <string name="get_csv_template_file">"Stáhněte si soubor šablony CSV"</string>
+    <string name="to_prepare_file">"Postup přípravy souboru obsahujícího klíče sami:"</string>
+    <string name="click_button_file_will_be_saved">"1. Klikněte na tlačítko \'Stáhnout šablonu CSV\' - soubor bude uložen do paměti zařízení ve složce Sonar,"</string>
+    <string name="modify_file_add_serial_numbers_and_keys">"2. Upravit soubor šablony - přidejte příslušně sériová čísla a šifrovací klíče zařízení. Každý řádek by měl obsahovat sériové číslo a klíč NFC oddělený čárkou. Klíče jsou uloženy v hexadecimální podobě - jeden bajt popisuje dva znaky,"</string>
+    <string name="click_and_select_file_to_import">"3. Klikněte na tlačítko \'Importovat soubor CSV\' a vyberte klíčový soubor."</string>
 </resources>
