@@ -577,4 +577,27 @@ Vandmålerindikation - begyndelsen af måneden"</string>
     <string name="cannot_connect_with_device">"Kunne ikke oprette forbindelse til enheden"</string>
     <string name="cannot_search_new_device">"Enheden kunne ikke findes"</string>
     <string name="changing_into_transport_mode_is_impossible">"Skift til lagertilstand er ikke muligt"</string>
+    <string name="change_of_mode_and_or_interval">"Ændring af dynamisk logtilstand og / eller interval"</string>
+    <string name="change_of_next_log_save_time">"Skift tid for den næste dynamiske logpost"</string>
+    <string name="modifications">"Ændringer"</string>
+    <string name="time_cannot_be_later_than">"Indstillet tid kan ikke være senere end"</string>
+    <string name="time_since_set_to">"Tid \ \"Fra \\" indstillet til"</string>
+    <string name="since">"Fra"</string>
+    <string name="time_cannot_be_earlier_than">"Indstillet tid kan ikke være tidligere end"</string>
+    <string name="time_to_set_to">"\ \"Til \\" tid indstillet til"</string>
+    <string name="to">"Til"</string>
+    <string name="usage_presentation_in_time">"Præsentation af forbrug i periode"</string>
+    <string name="serial_number">"Serienummer"</string>
+    <string name="key1">"NFC1-nøgle"</string>
+    <string name="key2">"NFC2-nøgle"</string>
+    <string name="key3">"NFC3-nøgle"</string>
+    <string name="initialization_vector">"Start af vektor"</string>
+    <string name="maintenance_key">"Vedligeholdelsesnøgle"</string>
+    <string name="master_key">"Master nøgle"</string>
+    <string name="open_csv_template">"Åbn skabelonfil"</string>
+    <string name="get_csv_template_file">"Download .csv-skabelonfil"</string>
+    <string name="to_prepare_file">"For at forberede en fil, der indeholder nøgler selv:"</string>
+    <string name="click_button_file_will_be_saved">"1. Klik på knappen \'Download .csv-skabelon \ '- filen gemmes i enhedens hukommelse i Sonar-applikationsmappe,"</string>
+    <string name="modify_file_add_serial_numbers_and_keys">"2. Rediger skabelonfil - tilføj passende serienumre og krypteringsnøgler på enheder. Hver linje skal indeholde serienummer og NFC-nøgle adskilt med et komma. Taster gemmes i hexadecimal form - en byte beskriver to tegn,"</string>
+    <string name="click_and_select_file_to_import">"3. Klik på \'Importer .csv-fil \' -knappen, og vælg nøglefil."</string>
 </resources>
