@@ -599,4 +599,27 @@ Indication du compteur d'eau - début du mois"</string>
     <string name="cannot_connect_with_device">"Impossible de se connecter à l'appareil"</string>
     <string name="cannot_search_new_device">"Impossible de trouver le périphérique"</string>
     <string name="changing_into_transport_mode_is_impossible">"Le passage en mode stockage n'est pas possible"</string>
+    <string name="change_of_mode_and_or_interval">"Changement de mode et / ou d'intervalle de journal dynamique"</string>
+    <string name="change_of_next_log_save_time">"Modifier l'heure de la prochaine entrée de journal dynamique"</string>
+    <string name="modifications">"Modifications"</string>
+    <string name="time_cannot_be_later_than">"L'heure définie ne peut pas être postérieure à"</string>
+    <string name="time_since_set_to">"Heure \ \"De \\" définie sur"</string>
+    <string name="since">"De"</string>
+    <string name="time_cannot_be_earlier_than">"L'heure définie ne peut pas être antérieure à"</string>
+    <string name="time_to_set_to">"Heure \ \"To \\" définie sur"</string>
+    <string name="to">"À"</string>
+    <string name="usage_presentation_in_time">"Présentation de la consommation en période"</string>
+    <string name="serial_number">"Numéro de série"</string>
+    <string name="key1">"Touche NFC1"</string>
+    <string name="key2">"Clé NFC2"</string>
+    <string name="key3">"Clé NFC3"</string>
+    <string name="initialization_vector">"Vecteur initiateur"</string>
+    <string name="maintenance_key">"Clé de maintenance"</string>
+    <string name="master_key">"La clef maitresse"</string>
+    <string name="open_csv_template">"Ouvrir le fichier modèle"</string>
+    <string name="get_csv_template_file">"Téléchargez le fichier modèle .csv"</string>
+    <string name="to_prepare_file">"Pour préparer vous-même un fichier contenant des clés:"</string>
+    <string name="click_button_file_will_be_saved">"1. Cliquez sur le bouton \ 'Télécharger le modèle .csv \' - le fichier sera enregistré dans la mémoire de l'appareil dans le dossier d'application Sonar,"</string>
+    <string name="modify_file_add_serial_numbers_and_keys">"2. Modifiez le fichier modèle - ajoutez les numéros de série et les clés de cryptage appropriés des appareils. Chaque ligne doit contenir un numéro de série et une clé NFC séparés par une virgule. Les clés sont stockées sous forme hexadécimale - un octet décrit deux caractères,"</string>
+    <string name="click_and_select_file_to_import">"3. Cliquez sur le bouton \ 'Importer un fichier .csv \' et sélectionnez le fichier clé."</string>
 </resources>
