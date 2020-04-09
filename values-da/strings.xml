@@ -600,4 +600,13 @@ Vandmålerindikation - begyndelsen af måneden"</string>
     <string name="click_button_file_will_be_saved">"1. Klik på knappen \'Download .csv-skabelon \ '- filen gemmes i enhedens hukommelse i Sonar-applikationsmappe,"</string>
     <string name="modify_file_add_serial_numbers_and_keys">"2. Rediger skabelonfil - tilføj passende serienumre og krypteringsnøgler på enheder. Hver linje skal indeholde serienummer og NFC-nøgle adskilt med et komma. Taster gemmes i hexadecimal form - en byte beskriver to tegn,"</string>
     <string name="click_and_select_file_to_import">"3. Klik på \'Importer .csv-fil \' -knappen, og vælg nøglefil."</string>
+    <string name="device_configuration">"Enhedskonfiguration"</string>
+    <string name="installment_and_service">"Installation og service"</string>
+    <string name="radio_reading">"Radiolæsning"</string>
+    <string name="data_recorder">"Data logger"</string>
+    <string name="legalization">"Efterfølgende verifikation"</string>
+    <string name="radio_surrounding">"Radiomiljø"</string>
+    <string name="firmware_version">"Firmwareversion"</string>
+    <string name="hardware_version">"Hardwareversion"</string>
+    <string name="bootloader_version">"Bootloader-version"</string>
 </resources>
