@@ -599,4 +599,13 @@ początek miesiąca (m³)"</string>
     <string name="click_button_file_will_be_saved">"1. Kliknij przycisk \'Pobierz szablon .csv\' - plik zostanie zapisany w pamięci urządzenia, w folderze aplikacji Sonar,"</string>
     <string name="modify_file_add_serial_numbers_and_keys">"2. Zmodyfikuj plik szablonu - dopisz odpowiednio numery seryjne urządzeń oraz klucze szyfrujące. W każdej linii powinien znaleźć się numer seryjny oraz klucz NFC oddzielone przecinkiem. Klucze są zapisane w postaci heksadecymalnej - jeden bajt opisują dwa znaki,"</string>
     <string name="click_and_select_file_to_import">"3. Kliknij przycisk \'Zaimportuj plik .csv\' i wybierz plik z kluczami."</string>
+    <string name="device_configuration">"Konfiguracja urządzenia"</string>
+    <string name="installment_and_service">"Montaż i serwis"</string>
+    <string name="radio_reading">"Odczyt radiowy"</string>
+    <string name="data_recorder">"Rejestrator danych"</string>
+    <string name="legalization">"Legalizacja wtórna"</string>
+    <string name="radio_surrounding">"Otoczenie radiowe"</string>
+    <string name="firmware_version">"Wersja firmware"</string>
+    <string name="hardware_version">"Wersja hardware"</string>
+    <string name="bootloader_version">"Wersja bootloadera"</string>
 </resources>
