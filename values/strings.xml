@@ -803,4 +803,13 @@ Water meter indication - beginning of the month"</string>
     <string name="click_button_file_will_be_saved">"1. Click \'Download .csv template\' button - the file will be saved in the device's memory in Sonar application folder,"</string>
     <string name="modify_file_add_serial_numbers_and_keys">"2. Modify template file - add appropriately serial numbers and encryption keys of devices. Each line should contain serial number and NFC key separated by a comma. Keys are stored in hexadecimal form - one byte describes two characters,"</string>
     <string name="click_and_select_file_to_import">"3. Click \'Import .csv file\' button and select key file."</string>
+    <string name="device_configuration">"Device configuration"</string>
+    <string name="installment_and_service">"Installation and service"</string>
+    <string name="radio_reading">"Radio reading"</string>
+    <string name="data_recorder">"Data logger"</string>
+    <string name="legalization">"Subsequent verification"</string>
+    <string name="radio_surrounding">"Radio environment"</string>
+    <string name="firmware_version">"Firmware version"</string>
+    <string name="hardware_version">"Hardware version"</string>
+    <string name="bootloader_version">"Bootloader version"</string>
 </resources>
