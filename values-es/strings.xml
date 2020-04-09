@@ -611,4 +611,13 @@ Indicación del medidor de agua - comienzo del mes"</string>
     <string name="click_button_file_will_be_saved">"1. Haga clic en el botón \ 'Descargar plantilla .csv \': el archivo se guardará en la memoria del dispositivo en la carpeta de la aplicación Sonar,"</string>
     <string name="modify_file_add_serial_numbers_and_keys">"2. Modifique el archivo de plantilla: agregue adecuadamente los números de serie y las claves de cifrado de los dispositivos. Cada línea debe contener el número de serie y la clave NFC separados por una coma. Las claves se almacenan en forma hexadecimal: un byte describe dos caracteres,"</string>
     <string name="click_and_select_file_to_import">"3. Haga clic en el botón \ 'Importar archivo .csv \' y seleccione el archivo de clave."</string>
+    <string name="device_configuration">"Configuración del dispositivo"</string>
+    <string name="installment_and_service">"Instalación y servicio"</string>
+    <string name="radio_reading">"Lectura de radio"</string>
+    <string name="data_recorder">"Registrador de datos"</string>
+    <string name="legalization">"Verificación posterior"</string>
+    <string name="radio_surrounding">"Ambiente de radio"</string>
+    <string name="firmware_version">"Versión del firmware"</string>
+    <string name="hardware_version">"Versión del hardware"</string>
+    <string name="bootloader_version">"Versión del gestor de arranque"</string>
 </resources>
