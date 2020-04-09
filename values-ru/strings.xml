@@ -6,9 +6,9 @@
     <string name="yes">"Да"</string>
     <string name="no">"Нет"</string>
     <string name="code">"код"</string>
-    <string name="flashlight">"факел"</string>
+    <string name="flashlight">"Фонарик"</string>
     <string name="login">"Войти"</string>
-    <string name="email">"по электронной почте"</string>
+    <string name="email">"Email"</string>
     <string name="password">"Пароль"</string>
     <string name="show_password">"Показать пароль"</string>
     <string name="log_in">"войти"</string>
@@ -153,7 +153,7 @@
     <string name="credits">"кредитование"</string>
     <string name="semaphores">"семафоры"</string>
     <string name="counter">"Счетчик"</string>
-    <string name="soft">"мягкий"</string>
+    <string name="soft">"ПО"</string>
     <string name="date">"Дата"</string>
     <string name="production_date">"Дата изготовления"</string>
     <string name="watermeter_semaphores">"Семафоры"</string>
@@ -608,4 +608,13 @@
     <string name="click_button_file_will_be_saved">"1. Нажмите кнопку \'Скачать шаблон .csv\' - файл будет сохранен в памяти устройства в папке приложения Sonar,"</string>
     <string name="modify_file_add_serial_numbers_and_keys">"2. Изменить файл шаблона - добавить соответствующие серийные номера и ключи шифрования устройств. Каждая строка должна содержать серийный номер и ключ NFC, разделенные запятой. Ключи хранятся в шестнадцатеричной форме - один байт описывает два символа,"</string>
     <string name="click_and_select_file_to_import">"3. Нажмите кнопку \'Импорт файла .csv \' и выберите файл ключа."</string>
+    <string name="device_configuration">"Конфигурация устройства"</string>
+    <string name="installment_and_service">"Установка и обслуживание"</string>
+    <string name="radio_reading">"Чтение радио"</string>
+    <string name="data_recorder">"Регистратор данных"</string>
+    <string name="legalization">"Поверка"</string>
+    <string name="radio_surrounding">"Радио среда"</string>
+    <string name="firmware_version">"Версия прошивки"</string>
+    <string name="hardware_version">"Версия аппаратного обеспечения"</string>
+    <string name="bootloader_version">"Версия загрузчика"</string>
 </resources>
