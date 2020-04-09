@@ -598,4 +598,13 @@ Indicazione del contatore dell'acqua - inizio del mese"</string>
     <string name="click_button_file_will_be_saved">"1. Fare clic sul pulsante \'Scarica modello .csv \': il file verrà salvato nella memoria del dispositivo nella cartella dell'applicazione Sonar,"</string>
     <string name="modify_file_add_serial_numbers_and_keys">"2. Modifica file modello: aggiungi numeri di serie e chiavi di crittografia dei dispositivi in modo appropriato. Ogni riga deve contenere il numero seriale e la chiave NFC separati da una virgola. Le chiavi sono memorizzate in forma esadecimale: un byte descrive due caratteri,"</string>
     <string name="click_and_select_file_to_import">"3. Fare clic sul pulsante \'Importa file .csv \' e selezionare il file chiave."</string>
+    <string name="device_configuration">"Configurazione dell’apparecchiatura"</string>
+    <string name="installment_and_service">"Installazione e assistenza"</string>
+    <string name="radio_reading">"Lettura radio"</string>
+    <string name="data_recorder">"Data logger"</string>
+    <string name="legalization">"Verifica successiva"</string>
+    <string name="radio_surrounding">"Ambiente radio"</string>
+    <string name="firmware_version">"Versione firmware"</string>
+    <string name="hardware_version">"Versione hardware"</string>
+    <string name="bootloader_version">"Versione Bootloader"</string>
 </resources>
