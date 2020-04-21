@@ -431,7 +431,7 @@ Informacje o urządzeniu:
     <string name="dont_show_again">"Nie pokazuj ponownie"</string>
     <string name="watermeter_exchange">"Wymiana wodomierza"</string>
     <string name="remove_profile">"Usuń profil"</string>
-    <string name="want_to_log_out_and_remove_user_data">"Czy chcesz się wylogować i usunąć zapamiętane dane z telefonu?"</string>
+    <string name="want_to_log_out_and_remove_user_data">"Wylogowanie spowoduje konieczność logowania się w trybie online. Czy chcesz kontynuować?"</string>
     <string name="selected_file_is_not_keys_database">"Wskazany plik nie jest bazą kluczy szyfrujących."</string>
     <string name="fingerprint_usage_when_not_defined">"Gdy nie jest zdefiniwany odcisk palca to do logowania będzie wykorzystywane hasło."</string>
     <string name="total">"Całkowite"</string>
@@ -608,4 +608,7 @@ początek miesiąca (m³)"</string>
     <string name="firmware_version">"Wersja firmware"</string>
     <string name="hardware_version">"Wersja hardware"</string>
     <string name="bootloader_version">"Wersja bootloadera"</string>
+    <string name="back_to_default_interval">"Powrót do domyślnego interwału"</string>
+    <string name="searching_devices_in_progress">"Trwa wyszukiwanie urządzeń"</string>
+    <string name="pairing">"Parowanie"</string>
 </resources>
