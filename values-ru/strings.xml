@@ -618,6 +618,11 @@
     <string name="hardware_version">"Версия аппаратного обеспечения"</string>
     <string name="bootloader_version">"Версия загрузчика"</string>
     <string name="back_to_default_interval">"Вернуться к интервалу по умолчанию"</string>
-    <string name="searching_devices_in_progress"></string>
-    <string name="pairing"></string>
+    <string name="searching_devices_in_progress">"Идет поиск устройства"</string>
+    <string name="pairing">"выпаривание"</string>
+    <string name="pairing_failed">"Сопряжение не удалось"</string>
+    <string name="pairing_in_progress">"Устройство сопряжения"</string>
+    <string name="scanning_in_progress">"Сканирование в процессе"</string>
+    <string name="search_form_bluetooth_devices">"Поиск устройств Bluetooth"</string>
+    <string name="device_has_been_added">"Устройство было добавлено"</string>
 </resources>
