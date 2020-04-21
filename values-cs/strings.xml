@@ -610,6 +610,11 @@ Indikace vodoměru - začátek měsíce"</string>
     <string name="hardware_version">"Verze hardwaru"</string>
     <string name="bootloader_version">"Bootloader verze"</string>
     <string name="back_to_default_interval">"Návrat na výchozí interval"</string>
-    <string name="searching_devices_in_progress"></string>
-    <string name="pairing"></string>
+    <string name="searching_devices_in_progress">"Probíhá vyhledávání zařízení"</string>
+    <string name="pairing">"Vypařování"</string>
+    <string name="pairing_failed">"Párování selhalo"</string>
+    <string name="pairing_in_progress">"Zařízení se spáruje"</string>
+    <string name="scanning_in_progress">"Probíhá skenování"</string>
+    <string name="search_form_bluetooth_devices">"Vyhledejte zařízení Bluetooth"</string>
+    <string name="device_has_been_added">"Zařízení bylo přidáno"</string>
 </resources>
