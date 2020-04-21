@@ -442,7 +442,7 @@ Información sobre el dispositivo:
     <string name="dont_show_again">"No mostrar de nuevo"</string>
     <string name="watermeter_exchange">"Reemplazo de medidor de agua"</string>
     <string name="remove_profile">"Eliminar perfil"</string>
-    <string name="want_to_log_out_and_remove_user_data">"¿Desea cerrar sesión y eliminar los datos almacenados de su teléfono?"</string>
+    <string name="want_to_log_out_and_remove_user_data">"Cerrar sesión requerirá que inicie sesión en línea. ¿Quieres continuar?"</string>
     <string name="selected_file_is_not_keys_database">"El archivo especificado no es una base de datos de claves de cifrado."</string>
     <string name="fingerprint_usage_when_not_defined">"Si no se define una huella digital, la contraseña se usará para iniciar sesión."</string>
     <string name="total">"total"</string>
@@ -620,4 +620,7 @@ Indicación del medidor de agua - comienzo del mes"</string>
     <string name="firmware_version">"Versión del firmware"</string>
     <string name="hardware_version">"Versión del hardware"</string>
     <string name="bootloader_version">"Versión del gestor de arranque"</string>
+    <string name="back_to_default_interval">"Regresar al intervalo predeterminado"</string>
+    <string name="searching_devices_in_progress"></string>
+    <string name="pairing"></string>
 </resources>
