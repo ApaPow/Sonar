@@ -431,7 +431,7 @@ Enhedsoplysninger:
     <string name="dont_show_again">"Vis ikke igen"</string>
     <string name="watermeter_exchange">"Udskiftning af vandmåler"</string>
     <string name="remove_profile">"Slet profil"</string>
-    <string name="want_to_log_out_and_remove_user_data">"Vil du logge ud og slette de gemte data fra din telefon?"</string>
+    <string name="want_to_log_out_and_remove_user_data">"Udlogging kræver, at du logger ind online. Vil du fortsætte?"</string>
     <string name="selected_file_is_not_keys_database">"Den angivne fil er ikke en krypteringsnøgeldatabase."</string>
     <string name="fingerprint_usage_when_not_defined">"Hvis der ikke er defineret noget fingeraftryk, bruges adgangskoden til at logge ind."</string>
     <string name="total">"samlede"</string>
@@ -609,4 +609,7 @@ Vandmålerindikation - begyndelsen af måneden"</string>
     <string name="firmware_version">"Firmwareversion"</string>
     <string name="hardware_version">"Hardwareversion"</string>
     <string name="bootloader_version">"Bootloader-version"</string>
+    <string name="back_to_default_interval">"Vend tilbage til standardintervallet"</string>
+    <string name="searching_devices_in_progress"></string>
+    <string name="pairing"></string>
 </resources>
