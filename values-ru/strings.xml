@@ -440,7 +440,7 @@
     <string name="dont_show_again">"Не показывай снова"</string>
     <string name="watermeter_exchange">"Замена счетчика воды"</string>
     <string name="remove_profile">"Удалить профиль"</string>
-    <string name="want_to_log_out_and_remove_user_data">"Хотите выйти и удалить сохраненные данные с телефона?"</string>
+    <string name="want_to_log_out_and_remove_user_data">"Выход из системы потребует от вас авторизации онлайн. Вы хотите продолжить?"</string>
     <string name="selected_file_is_not_keys_database">"Указанный файл не является базой данных ключей шифрования."</string>
     <string name="fingerprint_usage_when_not_defined">"Если отпечаток не определен, пароль будет использоваться для входа в систему."</string>
     <string name="total">"Общее"</string>
@@ -617,4 +617,7 @@
     <string name="firmware_version">"Версия прошивки"</string>
     <string name="hardware_version">"Версия аппаратного обеспечения"</string>
     <string name="bootloader_version">"Версия загрузчика"</string>
+    <string name="back_to_default_interval">"Вернуться к интервалу по умолчанию"</string>
+    <string name="searching_devices_in_progress"></string>
+    <string name="pairing"></string>
 </resources>
