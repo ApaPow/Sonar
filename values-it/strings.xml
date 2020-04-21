@@ -429,7 +429,7 @@ Informazioni sul dispositivo:
     <string name="dont_show_again">"Non mostrare più"</string>
     <string name="watermeter_exchange">"Sostituzione del contatore dell'acqua"</string>
     <string name="remove_profile">"Elimina profilo"</string>
-    <string name="want_to_log_out_and_remove_user_data">"Vuoi uscire ed eliminare i dati memorizzati dal tuo telefono?"</string>
+    <string name="want_to_log_out_and_remove_user_data">"La disconnessione richiederà l'accesso in linea. Vuoi continuare?"</string>
     <string name="selected_file_is_not_keys_database">"Il file specificato non è un database di chiavi di crittografia."</string>
     <string name="fingerprint_usage_when_not_defined">"Se non viene definita alcuna impronta digitale, la password verrà utilizzata per accedere."</string>
     <string name="total">"totale"</string>
@@ -607,4 +607,7 @@ Indicazione del contatore dell'acqua - inizio del mese"</string>
     <string name="firmware_version">"Versione firmware"</string>
     <string name="hardware_version">"Versione hardware"</string>
     <string name="bootloader_version">"Versione Bootloader"</string>
+    <string name="back_to_default_interval">"Ritorna all'intervallo predefinito"</string>
+    <string name="searching_devices_in_progress"></string>
+    <string name="pairing"></string>
 </resources>
