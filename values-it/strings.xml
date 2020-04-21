@@ -608,6 +608,11 @@ Indicazione del contatore dell'acqua - inizio del mese"</string>
     <string name="hardware_version">"Versione hardware"</string>
     <string name="bootloader_version">"Versione Bootloader"</string>
     <string name="back_to_default_interval">"Ritorna all'intervallo predefinito"</string>
-    <string name="searching_devices_in_progress"></string>
-    <string name="pairing"></string>
+    <string name="searching_devices_in_progress">"Ricerca dispositivo in corso"</string>
+    <string name="pairing">"Evaporazione"</string>
+    <string name="pairing_failed">"Associazione fallita"</string>
+    <string name="pairing_in_progress">"Il dispositivo si sta accoppiando"</string>
+    <string name="scanning_in_progress">"Scansione in corso"</string>
+    <string name="search_form_bluetooth_devices">"Cerca dispositivi Bluetooth"</string>
+    <string name="device_has_been_added">"Il dispositivo è stato aggiunto"</string>
 </resources>
