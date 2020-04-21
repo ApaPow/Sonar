@@ -813,6 +813,11 @@ Water meter indication - beginning of the month"</string>
     <string name="hardware_version">"Hardware version"</string>
     <string name="bootloader_version">"Bootloader version"</string>
     <string name="back_to_default_interval">"Return to the default interval"</string>
-    <string name="searching_devices_in_progress"></string>
-    <string name="pairing"></string>
+    <string name="searching_devices_in_progress">"Device search in progress"</string>
+    <string name="pairing">"Evaporation"</string>
+    <string name="pairing_failed">"Pairing failed"</string>
+    <string name="pairing_in_progress">"The device is pairing"</string>
+    <string name="scanning_in_progress">"Scanning in progress"</string>
+    <string name="search_form_bluetooth_devices">"Search for Bluetooth devices"</string>
+    <string name="device_has_been_added">"The device has been added"</string>
 </resources>
