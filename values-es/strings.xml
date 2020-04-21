@@ -621,6 +621,11 @@ Indicación del medidor de agua - comienzo del mes"</string>
     <string name="hardware_version">"Versión del hardware"</string>
     <string name="bootloader_version">"Versión del gestor de arranque"</string>
     <string name="back_to_default_interval">"Regresar al intervalo predeterminado"</string>
-    <string name="searching_devices_in_progress"></string>
-    <string name="pairing"></string>
+    <string name="searching_devices_in_progress">"Búsqueda de dispositivo en progreso"</string>
+    <string name="pairing">"Evaporación"</string>
+    <string name="pairing_failed">"Emparejamiento fallido"</string>
+    <string name="pairing_in_progress">"El dispositivo se está emparejando"</string>
+    <string name="scanning_in_progress">"Escaneo en progreso"</string>
+    <string name="search_form_bluetooth_devices">"Buscar dispositivos Bluetooth"</string>
+    <string name="device_has_been_added">"El dispositivo ha sido agregado"</string>
 </resources>
