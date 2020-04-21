@@ -442,7 +442,7 @@ Informationen zum Gerät:
     <string name="dont_show_again">"Nicht mehr anzeigen"</string>
     <string name="watermeter_exchange">"Wasserzählerwechsel"</string>
     <string name="remove_profile">"Profil löschen"</string>
-    <string name="want_to_log_out_and_remove_user_data">"Möchten Sie sich abmelden und die gespeicherten Daten von Ihrem Telefon löschen?"</string>
+    <string name="want_to_log_out_and_remove_user_data">"Zum Abmelden müssen Sie sich online anmelden. Wollen Sie fortfahren?"</string>
     <string name="selected_file_is_not_keys_database">"Die angegebene Datei ist keine Verschlüsselungsschlüsseldatenbank."</string>
     <string name="fingerprint_usage_when_not_defined">"Wenn kein Fingerabdruck definiert ist, wird das Kennwort zum Anmelden verwendet."</string>
     <string name="total">"gesamt"</string>
@@ -620,4 +620,7 @@ Wasserzähleranzeige - Anfang des Monats"</string>
     <string name="firmware_version">"Firmware-Version"</string>
     <string name="hardware_version">"Hardware Version"</string>
     <string name="bootloader_version">"Bootloader-Version"</string>
+    <string name="back_to_default_interval">"Kehren Sie zum Standardintervall zurück"</string>
+    <string name="searching_devices_in_progress"></string>
+    <string name="pairing"></string>
 </resources>
