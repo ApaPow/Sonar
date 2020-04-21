@@ -632,6 +632,11 @@ Indication du compteur d'eau - début du mois"</string>
     <string name="hardware_version">"Version matérielle"</string>
     <string name="bootloader_version">"Version du chargeur de démarrage"</string>
     <string name="back_to_default_interval">"Revenir à l'intervalle par défaut"</string>
-    <string name="searching_devices_in_progress"></string>
-    <string name="pairing"></string>
+    <string name="searching_devices_in_progress">"Recherche d'appareils en cours"</string>
+    <string name="pairing">"Évaporation"</string>
+    <string name="pairing_failed">"Le jumelage a échoué"</string>
+    <string name="pairing_in_progress">"L'appareil s'associe"</string>
+    <string name="scanning_in_progress">"Numérisation en cours"</string>
+    <string name="search_form_bluetooth_devices">"Rechercher des appareils Bluetooth"</string>
+    <string name="device_has_been_added">"L'appareil a été ajouté"</string>
 </resources>
