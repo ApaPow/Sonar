@@ -453,7 +453,7 @@ Informations sur le périphérique:
     <string name="dont_show_again">"Ne plus montrer"</string>
     <string name="watermeter_exchange">"Remplacement du compteur d'eau"</string>
     <string name="remove_profile">"Supprimer le profil"</string>
-    <string name="want_to_log_out_and_remove_user_data">"Voulez-vous vous déconnecter et supprimer les données stockées de votre téléphone?"</string>
+    <string name="want_to_log_out_and_remove_user_data">"Pour vous déconnecter, vous devrez vous connecter en ligne. Voulez-vous continuer?"</string>
     <string name="selected_file_is_not_keys_database">"Le fichier spécifié n'est pas une base de données de clés de chiffrement."</string>
     <string name="fingerprint_usage_when_not_defined">"Si aucune empreinte digitale n'est définie, le mot de passe sera utilisé pour se connecter."</string>
     <string name="total">"total"</string>
@@ -631,4 +631,7 @@ Indication du compteur d'eau - début du mois"</string>
     <string name="firmware_version">"Version du firmware"</string>
     <string name="hardware_version">"Version matérielle"</string>
     <string name="bootloader_version">"Version du chargeur de démarrage"</string>
+    <string name="back_to_default_interval">"Revenir à l'intervalle par défaut"</string>
+    <string name="searching_devices_in_progress"></string>
+    <string name="pairing"></string>
 </resources>
