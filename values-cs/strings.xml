@@ -431,7 +431,7 @@ Informace o zařízení:
     <string name="dont_show_again">"Nezobrazovat znovu"</string>
     <string name="watermeter_exchange">"Výměna vodoměru"</string>
     <string name="remove_profile">"Smazat profil"</string>
-    <string name="want_to_log_out_and_remove_user_data">"Chcete se odhlásit a smazat uložená data z telefonu?"</string>
+    <string name="want_to_log_out_and_remove_user_data">"Odhlášení bude vyžadovat přihlášení online. Chceš pokračovat?"</string>
     <string name="selected_file_is_not_keys_database">"Zadaný soubor není databází šifrovacích klíčů."</string>
     <string name="fingerprint_usage_when_not_defined">"Pokud není definován žádný otisk prstu, použije se pro přihlášení heslo."</string>
     <string name="total">"totální"</string>
@@ -609,4 +609,7 @@ Indikace vodoměru - začátek měsíce"</string>
     <string name="firmware_version">"Verze firmwaru"</string>
     <string name="hardware_version">"Verze hardwaru"</string>
     <string name="bootloader_version">"Bootloader verze"</string>
+    <string name="back_to_default_interval">"Návrat na výchozí interval"</string>
+    <string name="searching_devices_in_progress"></string>
+    <string name="pairing"></string>
 </resources>
