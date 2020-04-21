@@ -634,7 +634,7 @@ Information about device:
     <string name="dont_show_again">"Do not show again"</string>
     <string name="watermeter_exchange">"Water meter replacement"</string>
     <string name="remove_profile">"Delete profile"</string>
-    <string name="want_to_log_out_and_remove_user_data">"Do you want to log out and delete stored data from your phone?"</string>
+    <string name="want_to_log_out_and_remove_user_data">"Logging out will require you to log in online. Do you want to continue?"</string>
     <string name="selected_file_is_not_keys_database">"This file is not an encryption key database."</string>
     <string name="fingerprint_usage_when_not_defined">"If no fingerprint is defined, the password will be used to log in."</string>
     <string name="total">"Total"</string>
@@ -812,4 +812,7 @@ Water meter indication - beginning of the month"</string>
     <string name="firmware_version">"Firmware version"</string>
     <string name="hardware_version">"Hardware version"</string>
     <string name="bootloader_version">"Bootloader version"</string>
+    <string name="back_to_default_interval">"Return to the default interval"</string>
+    <string name="searching_devices_in_progress"></string>
+    <string name="pairing"></string>
 </resources>
