@@ -610,6 +610,11 @@ Vandmålerindikation - begyndelsen af måneden"</string>
     <string name="hardware_version">"Hardwareversion"</string>
     <string name="bootloader_version">"Bootloader-version"</string>
     <string name="back_to_default_interval">"Vend tilbage til standardintervallet"</string>
-    <string name="searching_devices_in_progress"></string>
-    <string name="pairing"></string>
+    <string name="searching_devices_in_progress">"Enhedssøgning pågår"</string>
+    <string name="pairing">"inddampning"</string>
+    <string name="pairing_failed">"Parringen mislykkedes"</string>
+    <string name="pairing_in_progress">"Enheden er parret"</string>
+    <string name="scanning_in_progress">"Scanning i gang"</string>
+    <string name="search_form_bluetooth_devices">"Søg efter Bluetooth-enheder"</string>
+    <string name="device_has_been_added">"Enheden er tilføjet"</string>
 </resources>
