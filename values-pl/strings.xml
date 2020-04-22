@@ -611,4 +611,9 @@ początek miesiąca (m³)"</string>
     <string name="back_to_default_interval">"Powrót do domyślnego interwału"</string>
     <string name="searching_devices_in_progress">"Trwa wyszukiwanie urządzeń"</string>
     <string name="pairing">"Parowanie"</string>
+    <string name="pairing_failed">"Parowanie się nie powiodło"</string>
+    <string name="pairing_in_progress">"Trwa parowanie urządzenia"</string>
+    <string name="scanning_in_progress">"Trwa skanowanie"</string>
+    <string name="search_form_bluetooth_devices">"Wyszukaj urządzenia Bluetooth"</string>
+    <string name="device_has_been_added">"Urządzenie zostało dodane"</string>
 </resources>
