@@ -621,6 +621,11 @@ Wasserzähleranzeige - Anfang des Monats"</string>
     <string name="hardware_version">"Hardware Version"</string>
     <string name="bootloader_version">"Bootloader-Version"</string>
     <string name="back_to_default_interval">"Kehren Sie zum Standardintervall zurück"</string>
-    <string name="searching_devices_in_progress"></string>
-    <string name="pairing"></string>
+    <string name="searching_devices_in_progress">"Gerätesuche läuft"</string>
+    <string name="pairing">"Verdunstung"</string>
+    <string name="pairing_failed">"Pairing fehlgeschlagen"</string>
+    <string name="pairing_in_progress">"Das Gerät wird gekoppelt"</string>
+    <string name="scanning_in_progress">"Scannen läuft"</string>
+    <string name="search_form_bluetooth_devices">"Suchen Sie nach Bluetooth-Geräten"</string>
+    <string name="device_has_been_added">"Das Gerät wurde hinzugefügt"</string>
 </resources>
