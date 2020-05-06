@@ -667,7 +667,7 @@ Wasserzähleranzeige - Anfang des Monats"</string>
     <string name="watermeter_cold_water">"Kaltwasserzähler"</string>
     <string name="watermeter_hot_water">"Warmwasserzähler"</string>
     <string name="energymeter">"Stromzähler"</string>
-    <string name="splitter">"Spliter"</string>
+    <string name="splitter">"Heizkostenverteiler"</string>
     <string name="routes">"Routen"</string>
     <string name="start">"Start"</string>
 </resources>
