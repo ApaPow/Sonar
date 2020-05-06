@@ -667,7 +667,7 @@ Indicación del medidor de agua - comienzo del mes"</string>
     <string name="watermeter_cold_water">"Medidor de agua fría"</string>
     <string name="watermeter_hot_water">"Medidor de agua caliente"</string>
     <string name="energymeter">"Medidor de corriente"</string>
-    <string name="splitter">"Spliter"</string>
+    <string name="splitter">"Asignación de costos de calefacción"</string>
     <string name="routes">"Rutas"</string>
     <string name="start">"comienzo"</string>
 </resources>
