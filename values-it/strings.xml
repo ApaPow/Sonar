@@ -654,7 +654,7 @@ Indicazione del contatore dell'acqua - inizio del mese"</string>
     <string name="watermeter_cold_water">"Contatore per acqua fredda"</string>
     <string name="watermeter_hot_water">"Contatore dell'acqua calda"</string>
     <string name="energymeter">"Misuratore di corrente"</string>
-    <string name="splitter">"Spliter"</string>
+    <string name="splitter">"Allocatore dei costi di riscaldamento"</string>
     <string name="routes">"Itinerari"</string>
     <string name="start">"Inizio"</string>
 </resources>
