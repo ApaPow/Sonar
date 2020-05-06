@@ -664,7 +664,7 @@
     <string name="watermeter_cold_water">"Счетчик холодной воды"</string>
     <string name="watermeter_hot_water">"Счетчик горячей воды"</string>
     <string name="energymeter">"Текущий метр"</string>
-    <string name="splitter">"Spliter"</string>
+    <string name="splitter">"Распределитель затрат на отопление"</string>
     <string name="routes">"Маршруты"</string>
     <string name="start">"Начните"</string>
 </resources>
