@@ -656,7 +656,7 @@ Indikace vodoměru - začátek měsíce"</string>
     <string name="watermeter_cold_water">"Měřič studené vody"</string>
     <string name="watermeter_hot_water">"Měřič horké vody"</string>
     <string name="energymeter">"Aktuální měřič"</string>
-    <string name="splitter">"Spliter"</string>
+    <string name="splitter">"Rozdělovač nákladů na vytápění"</string>
     <string name="routes">"Trasy"</string>
     <string name="start">"Start"</string>
 </resources>
