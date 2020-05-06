@@ -678,7 +678,7 @@ Indication du compteur d'eau - début du mois"</string>
     <string name="watermeter_cold_water">"Compteur d'eau froide"</string>
     <string name="watermeter_hot_water">"Compteur d'eau chaude"</string>
     <string name="energymeter">"Compteur actuel"</string>
-    <string name="splitter">"Spliter"</string>
+    <string name="splitter">"Répartiteur des coûts de chauffage"</string>
     <string name="routes">"Itinéraires"</string>
     <string name="start">"Début"</string>
 </resources>
