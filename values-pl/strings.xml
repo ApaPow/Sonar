@@ -655,7 +655,7 @@ początek miesiąca (m³)"</string>
     <string name="watermeter_cold_water">"Wodomierz zimna woda"</string>
     <string name="watermeter_hot_water">"Wodomierz ciepła woda"</string>
     <string name="energymeter">"Miernik prądu"</string>
-    <string name="splitter">"Podzielnik"</string>
+    <string name="splitter">"Podzielnik kosztów ogrzewania"</string>
     <string name="routes">"Trasy"</string>
     <string name="start">"Start"</string>
 </resources>
