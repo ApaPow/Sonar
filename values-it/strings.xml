@@ -99,7 +99,7 @@
     <string name="nfc_info">"Per leggere i dati,
 metti il telefono sul contatore dell'acqua"</string>
     <string name="no_data_from_nfc">"Nessun dato da NFC"</string>
-    <string name="device_info">"informazioni sul dispositivo"</string>
+    <string name="device_info">"Piastra frontale"</string>
     <string name="history">"Storia"</string>
     <string name="january">"Gennaio"</string>
     <string name="february">"Febbraio"</string>
