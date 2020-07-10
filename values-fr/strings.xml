@@ -443,7 +443,7 @@ Informations sur le périphérique:
     <string name="ultrimis_w">"Ultrimis W."</string>
     <string name="wmbus_na1">"APT WMBUS-IN-1"</string>
     <string name="weeks">"semaines"</string>
-    <string name="autodelete">"Remise à zéro automatique"</string>
+    <string name="autodelete">"Réinitialisation"</string>
     <string name="capacity_events_deletion">"Suppression volumétrique d'événements"</string>
     <string name="time_events_deletion">"Suppression temporaire d'événements"</string>
     <string name="work_temperature_exceeded">"Température de fonctionnement dépassée"</string>
